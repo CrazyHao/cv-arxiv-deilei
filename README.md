@@ -55,6 +55,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**Accelerating Globally Optimal Consensus Maximization in Geometric Vision**|Xinyue Zhang et.al.|[2304.05156](http://arxiv.org/abs/2304.05156)|null|
+|**2023-04-11**|**Multi-Graph Convolution Network for Pose Forecasting**|Hongwei Ren et.al.|[2304.04956](http://arxiv.org/abs/2304.04956)|null|
+|**2023-04-10**|**ShapeShift: Superquadric-based Object Pose Estimation for Robotic Grasping**|E. Zhixuan Zeng et.al.|[2304.04861](http://arxiv.org/abs/2304.04861)|null|
 |**2023-04-07**|**Event-based Camera Tracker by $\nabla$ t NeRF**|Mana Masuda et.al.|[2304.04559](http://arxiv.org/abs/2304.04559)|null|
 |**2023-04-10**|**PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM**|Yuyang Tu et.al.|[2304.04523](http://arxiv.org/abs/2304.04523)|null|
 |**2023-04-10**|**HybridFusion: LiDAR and Vision Cross-Source Point Cloud Fusion**|Yu Wang et.al.|[2304.04508](http://arxiv.org/abs/2304.04508)|null|
