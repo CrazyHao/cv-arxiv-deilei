@@ -29,6 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250](http://arxiv.org/abs/2304.07250)|null|
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947](http://arxiv.org/abs/2304.05947)|**[link](https://github.com/v-pnk/cadloc)**|
 |**2023-04-08**|**Photometric Correction for Infrared Sensors**|Jincheng Zhang et.al.|[2304.03930](http://arxiv.org/abs/2304.03930)|null|
 |**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560](http://arxiv.org/abs/2304.03560)|**[link](https://github.com/antabangun/dualrefine)**|
@@ -45,6 +46,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250](http://arxiv.org/abs/2304.07250)|null|
+|**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966](http://arxiv.org/abs/2304.06966)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
+|**2023-04-14**|**An NMPC-ECBF Framework for Dynamic Motion Planning and Execution in vision-based Human-Robot Collaboration**|Dianhao Zhang et.al.|[2304.06923](http://arxiv.org/abs/2304.06923)|null|
+|**2023-04-13**|**Video alignment using unsupervised learning of local and global features**|Niloofar Fakhfour et.al.|[2304.06841](http://arxiv.org/abs/2304.06841)|null|
 |**2023-04-13**|**Meta-Auxiliary Learning for Adaptive Human Pose Prediction**|Qiongjie Cui et.al.|[2304.06411](http://arxiv.org/abs/2304.06411)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-12**|**Distilling Token-Pruned Pose Transformer for 2D Human Pose Estimation**|Feixiang Ren et.al.|[2304.05548](http://arxiv.org/abs/2304.05548)|null|
