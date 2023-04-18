@@ -46,6 +46,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Robust human position estimation in cooperative robotic cells**|António Amorim et.al.|[2304.08379](http://arxiv.org/abs/2304.08379)|null|
+|**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230](http://arxiv.org/abs/2304.08230)|**[link](https://github.com/elego9/6dp-data-bias)**|
+|**2023-04-17**|**Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey**|Jingrui Yu et.al.|[2304.08193](http://arxiv.org/abs/2304.08193)|null|
+|**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186](http://arxiv.org/abs/2304.08186)|null|
+|**2023-04-17**|**Wideband Effects on Near-Field Pose Estimation of Target-Lodged RIS**|Dario Tagliaferri et.al.|[2304.08131](http://arxiv.org/abs/2304.08131)|null|
+|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023](http://arxiv.org/abs/2304.08023)|null|
+|**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691](http://arxiv.org/abs/2304.07691)|null|
+|**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426](http://arxiv.org/abs/2304.07426)|null|
 |**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250](http://arxiv.org/abs/2304.07250)|null|
 |**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966](http://arxiv.org/abs/2304.06966)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
 |**2023-04-14**|**An NMPC-ECBF Framework for Dynamic Motion Planning and Execution in vision-based Human-Robot Collaboration**|Dianhao Zhang et.al.|[2304.06923](http://arxiv.org/abs/2304.06923)|null|
@@ -72,6 +80,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186](http://arxiv.org/abs/2304.08186)|null|
+|**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426](http://arxiv.org/abs/2304.07426)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-06**|**From Saliency to DINO: Saliency-guided Vision Transformer for Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2304.03140](http://arxiv.org/abs/2304.03140)|null|
 |**2023-03-29**|**NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud**|Xiangyu Zhu et.al.|[2303.16465](http://arxiv.org/abs/2303.16465)|null|
@@ -88,6 +98,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**|Mohamed Ali Chebbi et.al.|[2304.08056](http://arxiv.org/abs/2304.08056)|**[link](https://github.com/dalichebbi/deepsimnets)**|
+|**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691](http://arxiv.org/abs/2304.07691)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-16**|**ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**|Xiaoming Zhao et.al.|[2304.03608](http://arxiv.org/abs/2304.03608)|**[link](https://github.com/Shiaoming/ALIKED)**|
 |**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008](http://arxiv.org/abs/2304.02008)|**[link](https://github.com/cvg/gluestick)**|
