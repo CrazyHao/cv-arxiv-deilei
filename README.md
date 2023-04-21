@@ -57,6 +57,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**OOD-CV-v2: An extended Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images**|Bingchen Zhao et.al.|[2304.10266](http://arxiv.org/abs/2304.10266)|null|
+|**2023-04-20**|**Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors**|Hoang-Giang Cao et.al.|[2304.10108](http://arxiv.org/abs/2304.10108)|null|
 |**2023-04-18**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043](http://arxiv.org/abs/2304.09043)|null|
 |**2023-04-17**|**Robust human position estimation in cooperative robotic cells**|António Amorim et.al.|[2304.08379](http://arxiv.org/abs/2304.08379)|null|
 |**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230](http://arxiv.org/abs/2304.08230)|**[link](https://github.com/elego9/6dp-data-bias)**|
