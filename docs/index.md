@@ -47,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**IMUPoser: Full-Body Pose Estimation using IMUs in Phones, Watches, and Earbuds**|Vimal Mollyn et.al.|[2304.12518](http://arxiv.org/abs/2304.12518)|**[link](https://github.com/figlab/imuposer)**|
 |**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301](http://arxiv.org/abs/2304.12301)|null|
 |**2023-04-24**|**Model-Based Pose Estimation of Steerable Catheters under Bi-Plane Image Feedback**|Jared Lawson et.al.|[2304.12165](http://arxiv.org/abs/2304.12165)|null|
 |**2023-04-24**|**Occlusion Robust 3D Human Pose Estimation with StridedPoseGraphFormer and Data Augmentation**|Soubarna Banik et.al.|[2304.12069](http://arxiv.org/abs/2304.12069)|null|
