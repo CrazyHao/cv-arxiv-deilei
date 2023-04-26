@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -47,6 +47,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301](http://arxiv.org/abs/2304.12301)|null|
+|**2023-04-24**|**Model-Based Pose Estimation of Steerable Catheters under Bi-Plane Image Feedback**|Jared Lawson et.al.|[2304.12165](http://arxiv.org/abs/2304.12165)|null|
+|**2023-04-24**|**Occlusion Robust 3D Human Pose Estimation with StridedPoseGraphFormer and Data Augmentation**|Soubarna Banik et.al.|[2304.12069](http://arxiv.org/abs/2304.12069)|null|
+|**2023-04-25**|**A Spatial Calibration Method for Robust Cooperative Perception**|Zhiying Song et.al.|[2304.12033](http://arxiv.org/abs/2304.12033)|null|
 |**2023-04-17**|**OOD-CV-v2: An extended Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images**|Bingchen Zhao et.al.|[2304.10266](http://arxiv.org/abs/2304.10266)|null|
 |**2023-04-20**|**Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors**|Hoang-Giang Cao et.al.|[2304.10108](http://arxiv.org/abs/2304.10108)|null|
 |**2023-04-18**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043](http://arxiv.org/abs/2304.09043)|null|
