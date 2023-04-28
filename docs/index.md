@@ -47,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Interweaved Graph and Attention Network for 3D Human Pose Estimation**|Ti Wang et.al.|[2304.14045](http://arxiv.org/abs/2304.14045)|**[link](https://github.com/xiu-cs/iganet)**|
 |**2023-04-26**|**What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging**|Zitian Tang et.al.|[2304.13651](http://arxiv.org/abs/2304.13651)|**[link](https://github.com/zitiantang/thermal-im)**|
 |**2023-04-26**|**Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation**|Negar Nejatishahidin et.al.|[2304.13201](http://arxiv.org/abs/2304.13201)|null|
 |**2023-04-25**|**IMUPoser: Full-Body Pose Estimation using IMUs in Phones, Watches, and Earbuds**|Vimal Mollyn et.al.|[2304.12518](http://arxiv.org/abs/2304.12518)|**[link](https://github.com/figlab/imuposer)**|
