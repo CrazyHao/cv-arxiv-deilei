@@ -47,6 +47,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618](http://arxiv.org/abs/2305.01618)|null|
+|**2023-05-02**|**Hybrid model for Single-Stage Multi-Person Pose Estimation**|Jonghyun Kim et.al.|[2305.01167](http://arxiv.org/abs/2305.01167)|null|
 |**2023-04-30**|**Synthetic Data-based Detection of Zebras in Drone Imagery**|Elia Bonetto et.al.|[2305.00432](http://arxiv.org/abs/2305.00432)|null|
 |**2023-04-29**|**CARLA-BSP: a simulated dataset with pedestrians**|Maciej Wielgosz et.al.|[2305.00204](http://arxiv.org/abs/2305.00204)|null|
 |**2023-05-02**|**Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching**|Yesheng Zhang et.al.|[2305.00194](http://arxiv.org/abs/2305.00194)|null|
