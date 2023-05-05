@@ -47,6 +47,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036](http://arxiv.org/abs/2305.03036)|null|
+|**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva et.al.|[2305.02645](http://arxiv.org/abs/2305.02645)|null|
 |**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618](http://arxiv.org/abs/2305.01618)|null|
 |**2023-05-02**|**Hybrid model for Single-Stage Multi-Person Pose Estimation**|Jonghyun Kim et.al.|[2305.01167](http://arxiv.org/abs/2305.01167)|null|
 |**2023-04-30**|**Synthetic Data-based Detection of Zebras in Drone Imagery**|Elia Bonetto et.al.|[2305.00432](http://arxiv.org/abs/2305.00432)|null|
