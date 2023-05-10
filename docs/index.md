@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -51,7 +51,7 @@ layout: default
 |**2023-05-07**|**Neural Voting Field for Camera-Space 3D Hand Pose Estimation**|Lin Huang et.al.|[2305.04328](http://arxiv.org/abs/2305.04328)|null|
 |**2023-05-07**|**Poses as Queries: Image-to-LiDAR Map Localization with Transformers**|Jinyu Miao et.al.|[2305.04298](http://arxiv.org/abs/2305.04298)|null|
 |**2023-05-07**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286](http://arxiv.org/abs/2305.04286)|null|
-|**2023-05-07**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282](http://arxiv.org/abs/2305.04282)|null|
+|**2023-05-07**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282](http://arxiv.org/abs/2305.04282)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-05-05**|**Next-generation Surgical Navigation: Multi-view Marker-less 6DoF Pose Estimation of Surgical Instruments**|Jonas Hein et.al.|[2305.03535](http://arxiv.org/abs/2305.03535)|null|
 |**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036](http://arxiv.org/abs/2305.03036)|null|
 |**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva et.al.|[2305.02645](http://arxiv.org/abs/2305.02645)|null|
