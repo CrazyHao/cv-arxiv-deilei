@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -49,7 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-10**|**Embedded Feature Correlation Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
+|**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
 |**2023-05-09**|**Regular Splitting Graph Network for 3D Human Pose Estimation**|Tanvir Hassan et.al.|[2305.05785](http://arxiv.org/abs/2305.05785)|**[link](https://github.com/nies14/rs-net)**|
 |**2023-05-08**|**Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing**|Hyeokhyen Kwon et.al.|[2305.05062](http://arxiv.org/abs/2305.05062)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926](http://arxiv.org/abs/2305.04926)|null|
