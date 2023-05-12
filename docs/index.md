@@ -49,6 +49,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Perpetual Humanoid Control for Real-time Simulated Avatars**|Zhengyi Luo et.al.|[2305.06456](http://arxiv.org/abs/2305.06456)|null|
+|**2023-05-10**|**Local Region-to-Region Mapping-based Approach to Classify Articulated Objects**|Ayush Aggarwal et.al.|[2305.06394](http://arxiv.org/abs/2305.06394)|null|
 |**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
 |**2023-05-09**|**Regular Splitting Graph Network for 3D Human Pose Estimation**|Tanvir Hassan et.al.|[2305.05785](http://arxiv.org/abs/2305.05785)|**[link](https://github.com/nies14/rs-net)**|
 |**2023-05-08**|**Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing**|Hyeokhyen Kwon et.al.|[2305.05062](http://arxiv.org/abs/2305.05062)|null|
@@ -131,6 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477](http://arxiv.org/abs/2305.06477)|null|
 |**2023-05-10**|**Level-line Guided Edge Drawing for Robust Line Segment Detection**|Xinyu Lin et.al.|[2305.05883](http://arxiv.org/abs/2305.05883)|**[link](https://github.com/roylin1229/gedrlsd)**|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
 |**2023-04-29**|**A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges**|Xinyu Lin et.al.|[2305.00264](http://arxiv.org/abs/2305.00264)|null|
