@@ -49,6 +49,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Meta Omnium: A Benchmark for General-Purpose Learning-to-Learn**|Ondrej Bohdal et.al.|[2305.07625](http://arxiv.org/abs/2305.07625)|**[link](https://github.com/edi-meta-learning/meta-omnium)**|
+|**2023-05-12**|**Learning Monocular Depth in Dynamic Environment via Context-aware Temporal Attention**|Zizhang Wu et.al.|[2305.07397](http://arxiv.org/abs/2305.07397)|null|
+|**2023-05-12**|**A Survey on Deep Learning-Based Monocular Spacecraft Pose Estimation: Current State, Limitations and Prospects**|Leo Pauly et.al.|[2305.07348](http://arxiv.org/abs/2305.07348)|null|
+|**2023-05-12**|**MotionBEV: Attention-Aware Online LiDAR Moving Object Segmentation with Bird's Eye View based Appearance and Motion Features**|Bo Zhou et.al.|[2305.07336](http://arxiv.org/abs/2305.07336)|**[link](https://github.com/xiekkki/motionbev)**|
 |**2023-05-10**|**Perpetual Humanoid Control for Real-time Simulated Avatars**|Zhengyi Luo et.al.|[2305.06456](http://arxiv.org/abs/2305.06456)|null|
 |**2023-05-10**|**Local Region-to-Region Mapping-based Approach to Classify Articulated Objects**|Ayush Aggarwal et.al.|[2305.06394](http://arxiv.org/abs/2305.06394)|null|
 |**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
@@ -133,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang et.al.|[2305.07304](http://arxiv.org/abs/2305.07304)|**[link](https://github.com/songrise/clip-count)**|
 |**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477](http://arxiv.org/abs/2305.06477)|null|
 |**2023-05-10**|**Level-line Guided Edge Drawing for Robust Line Segment Detection**|Xinyu Lin et.al.|[2305.05883](http://arxiv.org/abs/2305.05883)|**[link](https://github.com/roylin1229/gedrlsd)**|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
