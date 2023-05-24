@@ -50,6 +50,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**MultiSCOPE: Disambiguating In-Hand Object Poses with Proprioception and Tactile Feedback**|Andrea Sipos et.al.|[2305.14204](http://arxiv.org/abs/2305.14204)|null|
+|**2023-05-23**|**Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models**|Luke K. Topham et.al.|[2305.13765](http://arxiv.org/abs/2305.13765)|null|
 |**2023-05-22**|**PALoc: Robust Prior-assisted Trajectory Generation for Benchmarking**|Xiangcheng Hu et.al.|[2305.13147](http://arxiv.org/abs/2305.13147)|null|
 |**2023-05-22**|**You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example**|Walter Goodwin et.al.|[2305.12626](http://arxiv.org/abs/2305.12626)|null|
 |**2023-05-18**|**Manifold-Aware Self-Training for Unsupervised Domain Adaptation on Regressing 6D Object Pose**|Yichen Zhang et.al.|[2305.10808](http://arxiv.org/abs/2305.10808)|null|
@@ -128,6 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628](http://arxiv.org/abs/2305.08628)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
 |**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487](http://arxiv.org/abs/2305.03487)|**[link](https://github.com/hui-design/hd2reg)**|
