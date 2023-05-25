@@ -50,6 +50,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829](http://arxiv.org/abs/2305.14829)|null|
+|**2023-05-24**|**Robust 3D-aware Object Classification via Discriminative Render-and-Compare**|Artur Jesslen et.al.|[2305.14668](http://arxiv.org/abs/2305.14668)|null|
 |**2023-05-23**|**MultiSCOPE: Disambiguating In-Hand Object Poses with Proprioception and Tactile Feedback**|Andrea Sipos et.al.|[2305.14204](http://arxiv.org/abs/2305.14204)|null|
 |**2023-05-23**|**Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models**|Luke K. Topham et.al.|[2305.13765](http://arxiv.org/abs/2305.13765)|null|
 |**2023-05-22**|**PALoc: Robust Prior-assisted Trajectory Generation for Benchmarking**|Xiangcheng Hu et.al.|[2305.13147](http://arxiv.org/abs/2305.13147)|null|
