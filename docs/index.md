@@ -50,6 +50,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Robust Category-Level 3D Pose Estimation from Synthetic Data**|Jiahao Yang et.al.|[2305.16124](http://arxiv.org/abs/2305.16124)|null|
+|**2023-05-25**|**Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)**|Tsu-Ching Hsiao et.al.|[2305.15873](http://arxiv.org/abs/2305.15873)|null|
+|**2023-05-25**|**Enhanced 6D Pose Estimation for Robotic Fruit Picking**|Marco Costanzo et.al.|[2305.15856](http://arxiv.org/abs/2305.15856)|null|
+|**2023-05-25**|**Text-to-Motion Retrieval: Towards Joint Understanding of Human Motion Data and Natural Language**|Nicola Messina et.al.|[2305.15842](http://arxiv.org/abs/2305.15842)|**[link](https://github.com/mesnico/text-to-motion-retrieval)**|
+|**2023-05-25**|**POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference**|Zhiwen Fan et.al.|[2305.15727](http://arxiv.org/abs/2305.15727)|null|
 |**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829](http://arxiv.org/abs/2305.14829)|null|
 |**2023-05-24**|**Robust 3D-aware Object Classification via Discriminative Render-and-Compare**|Artur Jesslen et.al.|[2305.14668](http://arxiv.org/abs/2305.14668)|null|
 |**2023-05-23**|**MultiSCOPE: Disambiguating In-Hand Object Poses with Proprioception and Tactile Feedback**|Andrea Sipos et.al.|[2305.14204](http://arxiv.org/abs/2305.14204)|null|
