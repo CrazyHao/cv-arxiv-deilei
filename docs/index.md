@@ -50,6 +50,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Uncertain Pose Estimation during Contact Tasks using Differentiable Contact Features**|Jeongmin Lee et.al.|[2305.16778](http://arxiv.org/abs/2305.16778)|null|
+|**2023-05-26**|**Shape-based pose estimation for automatic standard views of the knee**|Lisa Kausch et.al.|[2305.16717](http://arxiv.org/abs/2305.16717)|null|
+|**2023-05-26**|**Digital Twin-Based 3D Map Management for Edge-Assisted Mobile Augmented Reality**|Conghao Zhou et.al.|[2305.16571](http://arxiv.org/abs/2305.16571)|null|
+|**2023-05-25**|**EgoHumans: An Egocentric 3D Multi-Human Benchmark**|Rawal Khirodkar et.al.|[2305.16487](http://arxiv.org/abs/2305.16487)|null|
 |**2023-05-25**|**Robust Category-Level 3D Pose Estimation from Synthetic Data**|Jiahao Yang et.al.|[2305.16124](http://arxiv.org/abs/2305.16124)|null|
 |**2023-05-25**|**Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)**|Tsu-Ching Hsiao et.al.|[2305.15873](http://arxiv.org/abs/2305.15873)|null|
 |**2023-05-25**|**Enhanced 6D Pose Estimation for Robotic Fruit Picking**|Marco Costanzo et.al.|[2305.15856](http://arxiv.org/abs/2305.15856)|null|
