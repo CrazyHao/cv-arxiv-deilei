@@ -50,6 +50,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**3D Model-based Zero-Shot Pose Estimation Pipeline**|Jianqiu Chen et.al.|[2305.17934](http://arxiv.org/abs/2305.17934)|null|
+|**2023-05-29**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|null|
+|**2023-05-28**|**Counter-Hypothetical Particle Filters for Single Object Pose Tracking**|Elizabeth A. Olson et.al.|[2305.17828](http://arxiv.org/abs/2305.17828)|null|
+|**2023-05-27**|**An Image Based Visual Servo Method for Probe-and-Drogue Autonomous Aerial Refueling**|Quan Quan et.al.|[2305.17414](http://arxiv.org/abs/2305.17414)|null|
+|**2023-05-26**|**Generalizable Pose Estimation Using Implicit Scene Representations**|Vaibhav Saxena et.al.|[2305.17252](http://arxiv.org/abs/2305.17252)|null|
 |**2023-05-26**|**Uncertain Pose Estimation during Contact Tasks using Differentiable Contact Features**|Jeongmin Lee et.al.|[2305.16778](http://arxiv.org/abs/2305.16778)|null|
 |**2023-05-26**|**Shape-based pose estimation for automatic standard views of the knee**|Lisa Kausch et.al.|[2305.16717](http://arxiv.org/abs/2305.16717)|null|
 |**2023-05-26**|**Digital Twin-Based 3D Map Management for Edge-Assisted Mobile Augmented Reality**|Conghao Zhou et.al.|[2305.16571](http://arxiv.org/abs/2305.16571)|null|
@@ -163,6 +168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116](http://arxiv.org/abs/2305.11116)|**[link](https://github.com/yujielu10/llmscore)**|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|
