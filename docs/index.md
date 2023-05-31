@@ -50,6 +50,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**A Probabilistic Rotation Representation for Symmetric Shapes With an Efficiently Computable Bingham Loss Function**|Hiroya Sato et.al.|[2305.18947](http://arxiv.org/abs/2305.18947)|null|
+|**2023-05-30**|**Decomposed Human Motion Prior for Video Pose Estimation via Adversarial Training**|Wenshuo Chen et.al.|[2305.18743](http://arxiv.org/abs/2305.18743)|null|
 |**2023-05-29**|**3D Model-based Zero-Shot Pose Estimation Pipeline**|Jianqiu Chen et.al.|[2305.17934](http://arxiv.org/abs/2305.17934)|null|
 |**2023-05-29**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|null|
 |**2023-05-28**|**Counter-Hypothetical Particle Filters for Single Object Pose Tracking**|Elizabeth A. Olson et.al.|[2305.17828](http://arxiv.org/abs/2305.17828)|null|
@@ -146,6 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714](http://arxiv.org/abs/2305.18714)|**[link](https://github.com/wangsp1999/cd-research)**|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628](http://arxiv.org/abs/2305.08628)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
