@@ -61,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Dictionary Learning under Symmetries via Group Representations**|Subhroshekhar Ghosh et.al.|[2305.19557](http://arxiv.org/abs/2305.19557)|null|
 |**2023-05-30**|**A Probabilistic Rotation Representation for Symmetric Shapes With an Efficiently Computable Bingham Loss Function**|Hiroya Sato et.al.|[2305.18947](http://arxiv.org/abs/2305.18947)|null|
 |**2023-05-31**|**Decomposed Human Motion Prior for Video Pose Estimation via Adversarial Training**|Wenshuo Chen et.al.|[2305.18743](http://arxiv.org/abs/2305.18743)|null|
 |**2023-05-29**|**3D Model-based Zero-Shot Pose Estimation Pipeline**|Jianqiu Chen et.al.|[2305.17934](http://arxiv.org/abs/2305.17934)|null|
