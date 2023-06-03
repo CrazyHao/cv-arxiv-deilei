@@ -58,7 +58,7 @@ layout: default
 |**2023-05-30**|**A Probabilistic Rotation Representation for Symmetric Shapes With an Efficiently Computable Bingham Loss Function**|Hiroya Sato et.al.|[2305.18947](http://arxiv.org/abs/2305.18947)|null|
 |**2023-05-31**|**Decomposed Human Motion Prior for Video Pose Estimation via Adversarial Training**|Wenshuo Chen et.al.|[2305.18743](http://arxiv.org/abs/2305.18743)|null|
 |**2023-05-29**|**3D Model-based Zero-Shot Pose Estimation Pipeline**|Jianqiu Chen et.al.|[2305.17934](http://arxiv.org/abs/2305.17934)|null|
-|**2023-05-31**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|null|
+|**2023-05-31**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|**[link](https://github.com/ostadabbas/SPAC-Net-Synthetic-Pose-aware-Animal-ControlNet)**|
 |**2023-05-28**|**Counter-Hypothetical Particle Filters for Single Object Pose Tracking**|Elizabeth A. Olson et.al.|[2305.17828](http://arxiv.org/abs/2305.17828)|null|
 |**2023-05-27**|**An Image Based Visual Servo Method for Probe-and-Drogue Autonomous Aerial Refueling**|Quan Quan et.al.|[2305.17414](http://arxiv.org/abs/2305.17414)|null|
 |**2023-05-26**|**Generalizable Pose Estimation Using Implicit Scene Representations**|Vaibhav Saxena et.al.|[2305.17252](http://arxiv.org/abs/2305.17252)|null|
