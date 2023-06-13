@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -60,7 +60,7 @@ layout: default
 |**2023-06-07**|**BU-CVKit: Extendable Computer Vision Framework for Species Independent Tracking and Analysis**|Mahir Patel et.al.|[2306.04736](http://arxiv.org/abs/2306.04736)|null|
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-07**|**Efficient Vision Transformer for Human Pose Estimation via Patch Selection**|Kaleab A. Kinfu et.al.|[2306.04225](http://arxiv.org/abs/2306.04225)|null|
-|**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166](http://arxiv.org/abs/2306.04166)|null|
+|**2023-06-09**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166](http://arxiv.org/abs/2306.04166)|null|
 |**2023-06-02**|**Is Generative Modeling-based Stylization Necessary for Domain Adaptation in Regression Tasks?**|Jinman Park et.al.|[2306.01706](http://arxiv.org/abs/2306.01706)|null|
 |**2023-06-02**|**Two-View Geometry Scoring Without Correspondences**|Axel Barroso-Laguna et.al.|[2306.01596](http://arxiv.org/abs/2306.01596)|**[link](https://github.com/nianticlabs/scoring-without-correspondences)**|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
