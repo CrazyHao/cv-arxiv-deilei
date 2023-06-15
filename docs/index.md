@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.14
+## Updated on 2023.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -53,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Rethinking pose estimation in crowds: overcoming the detection information-bottleneck and ambiguity**|Mu Zhou et.al.|[2306.07879](http://arxiv.org/abs/2306.07879)|null|
+|**2023-06-13**|**Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images**|Panwang Pan et.al.|[2306.07598](http://arxiv.org/abs/2306.07598)|null|
 |**2023-06-13**|**detrex: Benchmarking Detection Transformers**|Tianhe Ren et.al.|[2306.07265](http://arxiv.org/abs/2306.07265)|**[link](https://github.com/IDEA-Research/detrex)**|
 |**2023-06-10**|**D3L: Decomposition of 3D Rotation and Lift from 2D Joint to 3D for Human Mesh Recovery**|Xiaoyang Hao et.al.|[2306.06406](http://arxiv.org/abs/2306.06406)|null|
 |**2023-06-13**|**Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception**|Xiaqing Pan et.al.|[2306.06362](http://arxiv.org/abs/2306.06362)|null|
