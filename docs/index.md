@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -59,7 +59,7 @@ layout: default
 |**2023-06-15**|**Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers**|Dominick Reilly et.al.|[2306.09331](http://arxiv.org/abs/2306.09331)|**[link](https://github.com/dominickrei/poseawarevt)**|
 |**2023-06-15**|**CAD-Estate: Large-scale CAD Model Annotation in RGB Videos**|Kevis-Kokitsi Maninis et.al.|[2306.09011](http://arxiv.org/abs/2306.09011)|null|
 |**2023-06-14**|**A pose and shear-based tactile robotic system for object tracking, surface following and object pushing**|John Lloyd et.al.|[2306.08560](http://arxiv.org/abs/2306.08560)|null|
-|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341](http://arxiv.org/abs/2306.08341)|null|
+|**2023-06-18**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341](http://arxiv.org/abs/2306.08341)|null|
 |**2023-06-13**|**Adding 3D Geometry Control to Diffusion Models**|Wufei Ma et.al.|[2306.08103](http://arxiv.org/abs/2306.08103)|null|
 |**2023-06-13**|**Rethinking pose estimation in crowds: overcoming the detection information-bottleneck and ambiguity**|Mu Zhou et.al.|[2306.07879](http://arxiv.org/abs/2306.07879)|**[link](https://github.com/amathislab/condtopdown)**|
 |**2023-06-13**|**Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images**|Panwang Pan et.al.|[2306.07598](http://arxiv.org/abs/2306.07598)|null|
