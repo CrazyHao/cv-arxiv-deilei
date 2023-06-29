@@ -58,6 +58,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858](http://arxiv.org/abs/2306.15858)|null|
+|**2023-06-28**|**GoalieNet: A Multi-Stage Network for Joint Goalie, Equipment, and Net Pose Estimation in Ice Hockey**|Marjan Shahi et.al.|[2306.15853](http://arxiv.org/abs/2306.15853)|null|
+|**2023-06-27**|**A Novel Two Stream Decision Level Fusion of Vision and Inertial Sensors Data for Automatic Multimodal Human Activity Recognition System**|Santosh Kumar Yadav et.al.|[2306.15765](http://arxiv.org/abs/2306.15765)|null|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-28**|**MIMIC: Masked Image Modeling with Image Correspondences**|Kalyani Marathe et.al.|[2306.15128](http://arxiv.org/abs/2306.15128)|**[link](https://github.com/raivnlab/mimic)**|
 |**2023-06-24**|**Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs**|Benjamin Kiefer et.al.|[2306.14056](http://arxiv.org/abs/2306.14056)|null|
