@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -66,7 +66,7 @@ layout: default
 |**2023-06-30**|**GIRA: Gaussian Mixture Models for Inference and Robot Autonomy**|Kshitij Goel et.al.|[2307.00071](http://arxiv.org/abs/2307.00071)|null|
 |**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817](http://arxiv.org/abs/2306.17817)|null|
 |**2023-06-30**|**Towards the extraction of robust sign embeddings for low resource sign language recognition**|Mathieu De Coster et.al.|[2306.17558](http://arxiv.org/abs/2306.17558)|null|
-|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544](http://arxiv.org/abs/2306.17544)|null|
+|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544](http://arxiv.org/abs/2306.17544)|**[link](https://github.com/ctu-mrs/coop_uav_dataset)**|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
 |**2023-06-29**|**MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling**|Zhenyu Zhang et.al.|[2306.17201](http://arxiv.org/abs/2306.17201)|null|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
