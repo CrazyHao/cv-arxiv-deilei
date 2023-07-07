@@ -70,6 +70,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Self-supervised Optimization of Hand Pose Estimation using Anatomical Features and Iterative Learning**|Christian Jauch et.al.|[2307.03007](http://arxiv.org/abs/2307.03007)|null|
+|**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949](http://arxiv.org/abs/2307.02949)|null|
+|**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906](http://arxiv.org/abs/2307.02906)|null|
 |**2023-07-04**|**Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones**|Elia Cereda et.al.|[2307.01559](http://arxiv.org/abs/2307.01559)|null|
 |**2023-07-03**|**Joint Coordinate Regression and Association For Multi-Person Pose Estimation, A Pure Neural Network Approach**|Dongyang Yu et.al.|[2307.01004](http://arxiv.org/abs/2307.01004)|null|
 |**2023-07-01**|**Automatic Solver Generator for Systems of Laurent Polynomial Equations**|Evgeniy Martyushev et.al.|[2307.00320](http://arxiv.org/abs/2307.00320)|null|
