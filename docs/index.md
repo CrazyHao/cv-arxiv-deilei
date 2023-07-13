@@ -61,6 +61,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896](http://arxiv.org/abs/2307.05896)|**[link](https://github.com/nyquixt/kinematicnet)**|
+|**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853](http://arxiv.org/abs/2307.05853)|**[link](https://github.com/bruceyo/GLA-GCN)**|
+|**2023-07-09**|**TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement**|Mahmoud Abdulsalam et.al.|[2307.05561](http://arxiv.org/abs/2307.05561)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
 |**2023-07-07**|**Proximity and Visuotactile Point Cloud Fusion for Contact Patches in Extreme Deformation**|Jessica Yin et.al.|[2307.03839](http://arxiv.org/abs/2307.03839)|null|
 |**2023-07-07**|**Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation**|Zhongyu Jiang et.al.|[2307.03833](http://arxiv.org/abs/2307.03833)|null|
@@ -257,6 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
 |**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
