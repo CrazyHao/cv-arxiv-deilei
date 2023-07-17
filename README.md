@@ -72,7 +72,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737](http://arxiv.org/abs/2307.06737)|null|
+|**2023-07-13**|**Haptic-guided assisted telemanipulation approach for grasping desired objects from heaps**|Maxime Adjigble et.al.|[2307.07053](http://arxiv.org/abs/2307.07053)|null|
+|**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737](http://arxiv.org/abs/2307.06737)|**[link](https://github.com/MiraPurkrabek/RePoGen)**|
 |**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896](http://arxiv.org/abs/2307.05896)|**[link](https://github.com/nyquixt/kinematicnet)**|
 |**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853](http://arxiv.org/abs/2307.05853)|**[link](https://github.com/bruceyo/GLA-GCN)**|
 |**2023-07-09**|**TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement**|Mahmoud Abdulsalam et.al.|[2307.05561](http://arxiv.org/abs/2307.05561)|null|
