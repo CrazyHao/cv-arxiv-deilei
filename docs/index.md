@@ -63,8 +63,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400](http://arxiv.org/abs/2307.12400)|null|
+|**2023-07-23**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274](http://arxiv.org/abs/2307.12274)|**[link](https://github.com/nonmy/fdct)**|
+|**2023-07-22**|**Challenges for Monocular 6D Object Pose Estimation in Robotics**|Stefan Thalhammer et.al.|[2307.12172](http://arxiv.org/abs/2307.12172)|null|
+|**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116](http://arxiv.org/abs/2307.12116)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
+|**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106](http://arxiv.org/abs/2307.12106)|null|
+|**2023-07-21**|**LAMP: Leveraging Language Prompts for Multi-person Pose Estimation**|Shengnan Hu et.al.|[2307.11934](http://arxiv.org/abs/2307.11934)|**[link](https://github.com/shengnanh20/lamp)**|
 |**2023-07-21**|**YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation**|Arul Selvam Periyasamy et.al.|[2307.11550](http://arxiv.org/abs/2307.11550)|null|
-|**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543](http://arxiv.org/abs/2307.11543)|null|
+|**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543](http://arxiv.org/abs/2307.11543)|**[link](https://github.com/ivano-donadi/kvn)**|
 |**2023-07-21**|**Semantically-enhanced Deep Collision Prediction for Autonomous Navigation using Aerial Robots**|Mihir Kulkarni et.al.|[2307.11522](http://arxiv.org/abs/2307.11522)|null|
 |**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261](http://arxiv.org/abs/2307.11261)|null|
 |**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763](http://arxiv.org/abs/2307.10763)|**[link](https://github.com/mondalanindya/msqnet)**|
@@ -277,6 +283,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
+|**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
 |**2023-07-22**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|null|
