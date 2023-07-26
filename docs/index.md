@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -64,7 +64,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400](http://arxiv.org/abs/2307.12400)|null|
-|**2023-07-23**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274](http://arxiv.org/abs/2307.12274)|**[link](https://github.com/nonmy/fdct)**|
+|**2023-07-25**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274](http://arxiv.org/abs/2307.12274)|**[link](https://github.com/nonmy/fdct)**|
 |**2023-07-22**|**Challenges for Monocular 6D Object Pose Estimation in Robotics**|Stefan Thalhammer et.al.|[2307.12172](http://arxiv.org/abs/2307.12172)|null|
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116](http://arxiv.org/abs/2307.12116)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
 |**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106](http://arxiv.org/abs/2307.12106)|null|
