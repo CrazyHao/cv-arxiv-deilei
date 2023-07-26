@@ -63,6 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Of Mice and Pose: 2D Mouse Pose Estimation from Unlabelled Data and Synthetic Prior**|Jose Sosa et.al.|[2307.13361](http://arxiv.org/abs/2307.13361)|null|
 |**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400](http://arxiv.org/abs/2307.12400)|null|
 |**2023-07-25**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274](http://arxiv.org/abs/2307.12274)|**[link](https://github.com/nonmy/fdct)**|
 |**2023-07-22**|**Challenges for Monocular 6D Object Pose Estimation in Robotics**|Stefan Thalhammer et.al.|[2307.12172](http://arxiv.org/abs/2307.12172)|null|
@@ -250,6 +251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306](http://arxiv.org/abs/2307.00306)|**[link](https://github.com/boschresearch/symfm6d)**|
