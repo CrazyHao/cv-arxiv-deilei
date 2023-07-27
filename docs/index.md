@@ -63,6 +63,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247](http://arxiv.org/abs/2307.14247)|null|
+|**2023-07-26**|**Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2307.14006](http://arxiv.org/abs/2307.14006)|null|
+|**2023-07-26**|**Deep Robust Multi-Robot Re-localisation in Natural Environments**|Milad Ramezani et.al.|[2307.13950](http://arxiv.org/abs/2307.13950)|null|
 |**2023-07-25**|**Of Mice and Pose: 2D Mouse Pose Estimation from Unlabelled Data and Synthetic Prior**|Jose Sosa et.al.|[2307.13361](http://arxiv.org/abs/2307.13361)|null|
 |**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400](http://arxiv.org/abs/2307.12400)|null|
 |**2023-07-25**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274](http://arxiv.org/abs/2307.12274)|**[link](https://github.com/nonmy/fdct)**|
