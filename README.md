@@ -77,7 +77,7 @@
 |---|---|---|---|---|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889](http://arxiv.org/abs/2307.14889)|null|
 |**2023-07-26**|**Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control**|Yijiong Lin et.al.|[2307.14510](http://arxiv.org/abs/2307.14510)|null|
-|**2023-07-26**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247](http://arxiv.org/abs/2307.14247)|null|
+|**2023-07-26**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247](http://arxiv.org/abs/2307.14247)|**[link](https://github.com/li9i/cbgl)**|
 |**2023-07-26**|**Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2307.14006](http://arxiv.org/abs/2307.14006)|null|
 |**2023-07-26**|**Deep Robust Multi-Robot Re-localisation in Natural Environments**|Milad Ramezani et.al.|[2307.13950](http://arxiv.org/abs/2307.13950)|null|
 |**2023-07-25**|**Of Mice and Pose: 2D Mouse Pose Estimation from Unlabelled Data and Synthetic Prior**|Jose Sosa et.al.|[2307.13361](http://arxiv.org/abs/2307.13361)|null|
