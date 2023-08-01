@@ -75,6 +75,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765](http://arxiv.org/abs/2307.16765)|**[link](https://github.com/haonanwang0522/srpose)**|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-30**|**Touch if it's transparent! ACTOR: Active Tactile-based Category-Level Transparent Object Reconstruction**|Prajval Kumar Murali et.al.|[2307.16254](http://arxiv.org/abs/2307.16254)|null|
+|**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117](http://arxiv.org/abs/2307.16117)|null|
+|**2023-07-29**|**Iterative Graph Filtering Network for 3D Human Pose Estimation**|Zaedul Islam et.al.|[2307.16074](http://arxiv.org/abs/2307.16074)|**[link](https://github.com/zaedulislam/gs-net)**|
+|**2023-07-29**|**HandMIM: Pose-Aware Self-Supervised Learning for 3D Hand Mesh Estimation**|Zuyan Liu et.al.|[2307.16061](http://arxiv.org/abs/2307.16061)|null|
+|**2023-07-29**|**Effective Whole-body Pose Estimation with Two-stages Distillation**|Zhendong Yang et.al.|[2307.15880](http://arxiv.org/abs/2307.15880)|**[link](https://github.com/idea-research/dwpose)**|
 |**2023-07-28**|**Revisiting Fully Convolutional Geometric Features for Object 6D Pose Estimation**|Jaime Corsetti et.al.|[2307.15514](http://arxiv.org/abs/2307.15514)|null|
 |**2023-07-28**|**Robust Visual Sim-to-Real Transfer for Robotic Manipulation**|Ricardo Garcia et.al.|[2307.15320](http://arxiv.org/abs/2307.15320)|null|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889](http://arxiv.org/abs/2307.14889)|null|
@@ -272,6 +279,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-29**|**Transformer on Shuttlecock Flying Direction Prediction for Hit-frame Detection**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
