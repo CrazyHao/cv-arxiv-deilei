@@ -38,6 +38,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670](http://arxiv.org/abs/2308.02670)|null|
 |**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055](http://arxiv.org/abs/2307.15055)|null|
@@ -77,6 +78,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**SEM-GAT: Explainable Semantic Pose Estimation using Learned Graph Attention**|Efimia Panagiotaki et.al.|[2308.03718](http://arxiv.org/abs/2308.03718)|null|
+|**2023-08-07**|**A Horse with no Labels: Self-Supervised Horse Pose Estimation from Unlabelled Images and Synthetic Prior**|Jose Sosa et.al.|[2308.03411](http://arxiv.org/abs/2308.03411)|null|
+|**2023-08-06**|**Source-free Domain Adaptive Human Pose Estimation**|Qucheng Peng et.al.|[2308.03202](http://arxiv.org/abs/2308.03202)|null|
 |**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283](http://arxiv.org/abs/2308.02283)|null|
 |**2023-08-04**|**DTF-Net: Category-Level Pose Estimation and Shape Reconstruction via Deformable Template Field**|Haowen Wang et.al.|[2308.02239](http://arxiv.org/abs/2308.02239)|null|
 |**2023-08-07**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153](http://arxiv.org/abs/2308.02153)|null|
