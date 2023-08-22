@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
+|**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705](http://arxiv.org/abs/2308.10705)|null|
 |**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231](http://arxiv.org/abs/2308.07231)|**[link](https://github.com/liutao1126/enhance-sfm)**|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147](http://arxiv.org/abs/2308.06147)|null|
 |**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670](http://arxiv.org/abs/2308.02670)|null|
@@ -81,6 +83,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Polarimetric Information for Multi-Modal 6D Pose Estimation of Photometrically Challenging Objects with Limited Data**|Patrick Ruhkamp et.al.|[2308.10627](http://arxiv.org/abs/2308.10627)|null|
+|**2023-08-21**|**GaitPT: Skeletons Are All You Need For Gait Recognition**|Andy Catruna et.al.|[2308.10623](http://arxiv.org/abs/2308.10623)|null|
+|**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436](http://arxiv.org/abs/2308.10436)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
+|**2023-08-21**|**In-Rack Test Tube Pose Estimation Using RGB-D Data**|Hao Chen et.al.|[2308.10411](http://arxiv.org/abs/2308.10411)|null|
+|**2023-08-20**|**Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video**|Yingxuan You et.al.|[2308.10305](http://arxiv.org/abs/2308.10305)|**[link](https://github.com/kasvii/pmce)**|
+|**2023-08-20**|**OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision**|Shujie Zhang et.al.|[2308.10146](http://arxiv.org/abs/2308.10146)|null|
+|**2023-08-19**|**3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation**|Yi Zhang et.al.|[2308.10123](http://arxiv.org/abs/2308.10123)|**[link](https://github.com/edz-o/3dnbf)**|
+|**2023-08-19**|**Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation**|Yang Hai et.al.|[2308.10016](http://arxiv.org/abs/2308.10016)|**[link](https://github.com/yanghai-1218/pseudoflow)**|
+|**2023-08-19**|**UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning**|Meiqi Sun et.al.|[2308.09953](http://arxiv.org/abs/2308.09953)|null|
+|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678](http://arxiv.org/abs/2308.09678)|**[link](https://github.com/hbing-l/posynda)**|
 |**2023-08-18**|**Improving 3D Pose Estimation for Sign Language**|Maksym Ivashechkin et.al.|[2308.09525](http://arxiv.org/abs/2308.09525)|null|
 |**2023-08-18**|**Denoising Diffusion for 3D Hand Pose Estimation from Images**|Maksym Ivashechkin et.al.|[2308.09523](http://arxiv.org/abs/2308.09523)|null|
@@ -320,6 +332,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|null|
+|**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
@@ -362,7 +376,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
+|**2023-08-19**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
