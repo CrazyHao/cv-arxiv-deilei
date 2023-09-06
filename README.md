@@ -23,7 +23,7 @@
 |---|---|---|---|---|
 |**2023-08-16**|**View Consistent Purification for Accurate Cross-View Localization**|Shan Wang et.al.|[2308.08110](http://arxiv.org/abs/2308.08110)|null|
 |**2023-02-15**|**AI pipeline for accurate retinal layer segmentation using OCT 3D images**|Mayank Goswami et.al.|[2302.07806](http://arxiv.org/abs/2302.07806)|null|
-|**2023-01-04**|**RecRecNet: Rectangling Rectified Wide-Angle Images by Thin-Plate Spline Model and DoF-based Curriculum Learning**|Kang Liao et.al.|[2301.01661](http://arxiv.org/abs/2301.01661)|null|
+|**2023-09-05**|**RecRecNet: Rectangling Rectified Wide-Angle Images by Thin-Plate Spline Model and DoF-based Curriculum Learning**|Kang Liao et.al.|[2301.01661](http://arxiv.org/abs/2301.01661)|null|
 |**2022-08-30**|**CUAHN-VIO: Content-and-Uncertainty-Aware Homography Network for Visual-Inertial Odometry**|Yingfu Xu et.al.|[2208.13935](http://arxiv.org/abs/2208.13935)|**[link](https://github.com/tudelft/cuahn-vio)**|
 |**2022-08-19**|**Booster-SHOT: Boosting Stacked Homography Transformations for Multiview Pedestrian Detection with Attention**|Jinwoo Hwang et.al.|[2208.09211](http://arxiv.org/abs/2208.09211)|null|
 |**2022-07-05**|**Learning Local Implicit Fourier Representation for Image Warping**|Jaewon Lee et.al.|[2207.01831](http://arxiv.org/abs/2207.01831)|**[link](https://github.com/jaewon-lee-b/ltew)**|
@@ -87,6 +87,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
+|**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925](http://arxiv.org/abs/2309.01925)|null|
+|**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612](http://arxiv.org/abs/2309.01612)|null|
+|**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575](http://arxiv.org/abs/2309.01575)|null|
+|**2023-09-04**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Li et.al.|[2309.01365](http://arxiv.org/abs/2309.01365)|null|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
+|**2023-09-02**|**Mitigating Motion Blur for Robust 3D Baseball Player Pose Modeling for Pitch Analysis**|Jerrin Bright et.al.|[2309.01010](http://arxiv.org/abs/2309.01010)|null|
 |**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310](http://arxiv.org/abs/2309.00310)|**[link](https://github.com/shaohua-pan/RobustCap)**|
 |**2023-08-31**|**EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild**|Manuel Kaufmann et.al.|[2308.16894](http://arxiv.org/abs/2308.16894)|**[link](https://github.com/eth-ait/emdb)**|
 |**2023-08-31**|**SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects**|Ning Gao et.al.|[2308.16528](http://arxiv.org/abs/2308.16528)|null|
@@ -363,6 +370,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 |**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
@@ -414,6 +422,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420](http://arxiv.org/abs/2309.02420)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-08-14**|**Occ $^2$ Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**|Miao Fan et.al.|[2308.16160](http://arxiv.org/abs/2308.16160)|null|
 |**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144](http://arxiv.org/abs/2308.15144)|null|
 |**2023-08-27**|**LDL: Line Distance Functions for Panoramic Localization**|Junho Kim et.al.|[2308.13989](http://arxiv.org/abs/2308.13989)|null|
