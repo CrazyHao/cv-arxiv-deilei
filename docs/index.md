@@ -76,6 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569](http://arxiv.org/abs/2309.02569)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
 |**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925](http://arxiv.org/abs/2309.01925)|null|
 |**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612](http://arxiv.org/abs/2309.01612)|null|
