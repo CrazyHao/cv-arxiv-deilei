@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526](http://arxiv.org/abs/2309.00526)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
@@ -87,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891](http://arxiv.org/abs/2309.03891)|null|
 |**2023-09-05**|**An automated, high-resolution phenotypic assay for adult Brugia malayi and microfilaria**|Upender Kalwa et.al.|[2309.03235](http://arxiv.org/abs/2309.03235)|null|
 |**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569](http://arxiv.org/abs/2309.02569)|null|
