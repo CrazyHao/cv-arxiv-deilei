@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -79,7 +79,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662](http://arxiv.org/abs/2309.05662)|null|
 |**2023-09-11**|**Towards Intuitive HMI for UAV Control**|Filip Zoric et.al.|[2309.05460](http://arxiv.org/abs/2309.05460)|null|
-|**2023-09-10**|**FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild**|Jiong Wang et.al.|[2309.05073](http://arxiv.org/abs/2309.05073)|**[link](https://github.com/wangjiongw/freeman_api)**|
+|**2023-09-12**|**FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild**|Jiong Wang et.al.|[2309.05073](http://arxiv.org/abs/2309.05073)|**[link](https://github.com/wangjiongw/freeman_api)**|
 |**2023-09-09**|**Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation**|Boyuan Jiang et.al.|[2309.04756](http://arxiv.org/abs/2309.04756)|**[link](https://github.com/bymaths/probabilistic_triangulation)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
@@ -370,7 +370,7 @@ layout: default
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
-|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
+|**2023-09-12**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
