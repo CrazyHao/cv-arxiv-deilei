@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.16
+## Updated on 2023.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -78,7 +78,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910](http://arxiv.org/abs/2309.07910)|null|
-|**2023-09-14**|**Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation**|Thorsten Hempel et.al.|[2309.07654](http://arxiv.org/abs/2309.07654)|null|
+|**2023-09-14**|**Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation**|Thorsten Hempel et.al.|[2309.07654](http://arxiv.org/abs/2309.07654)|**[link](https://github.com/thohemp/6drepnet360)**|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-14**|**Unleashing the Power of Depth and Pose Estimation Neural Networks by Designing Compatible Endoscopic Images**|Junyang Wu et.al.|[2309.07390](http://arxiv.org/abs/2309.07390)|null|
 |**2023-09-13**|**LInKs "Lifting Independent Keypoints" -- Partial Pose Lifting for Occlusion Handling with Improved Accuracy in 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2309.07243](http://arxiv.org/abs/2309.07243)|null|
