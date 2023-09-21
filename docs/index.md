@@ -79,6 +79,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|null|
+|**2023-09-19**|**Language-Conditioned Affordance-Pose Detection in 3D Point Clouds**|Toan Nguyen et.al.|[2309.10911](http://arxiv.org/abs/2309.10911)|null|
 |**2023-09-19**|**MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**|Surbhi Madan et.al.|[2309.10765](http://arxiv.org/abs/2309.10765)|**[link](https://github.com/surbhimadan92/magic-tbr)**|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-20**|**GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild**|Simon Schaefer et.al.|[2309.10369](http://arxiv.org/abs/2309.10369)|null|
