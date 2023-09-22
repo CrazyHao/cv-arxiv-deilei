@@ -30,6 +30,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
@@ -79,6 +80,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
+|**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986](http://arxiv.org/abs/2309.11986)|null|
+|**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962](http://arxiv.org/abs/2309.11962)|null|
+|**2023-09-21**|**A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose**|Qingtian Wu et.al.|[2309.11773](http://arxiv.org/abs/2309.11773)|null|
+|**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667](http://arxiv.org/abs/2309.11667)|null|
+|**2023-09-20**|**Online Supervised Training of Spaceborne Vision during Proximity Operations using Adaptive Kalman Filtering**|Tae Ha Park et.al.|[2309.11645](http://arxiv.org/abs/2309.11645)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|null|
 |**2023-09-19**|**Language-Conditioned Affordance-Pose Detection in 3D Point Clouds**|Toan Nguyen et.al.|[2309.10911](http://arxiv.org/abs/2309.10911)|null|
 |**2023-09-19**|**MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**|Surbhi Madan et.al.|[2309.10765](http://arxiv.org/abs/2309.10765)|**[link](https://github.com/surbhimadan92/magic-tbr)**|
