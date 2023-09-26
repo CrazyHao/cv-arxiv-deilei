@@ -81,6 +81,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**|Yinan Meng et.al.|[2309.14279](http://arxiv.org/abs/2309.14279)|null|
+|**2023-09-25**|**Industrial Application of 6D Pose Estimation for Robotic Manipulation in Automotive Internal Logistics**|Philipp Quentin et.al.|[2309.14265](http://arxiv.org/abs/2309.14265)|null|
+|**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072](http://arxiv.org/abs/2309.14072)|**[link](https://github.com/uyoung-jeong/BoIR)**|
+|**2023-09-24**|**Towards Subcentimeter Accuracy Digital-Twin Tracking via An RGBD-based Transformer Model and A Comprehensive Mobile Dataset**|Zixun Huang et.al.|[2309.13570](http://arxiv.org/abs/2309.13570)|null|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986](http://arxiv.org/abs/2309.11986)|null|
 |**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962](http://arxiv.org/abs/2309.11962)|null|
