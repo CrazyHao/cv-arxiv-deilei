@@ -81,6 +81,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634](http://arxiv.org/abs/2309.16634)|null|
+|**2023-09-28**|**Off-the-shelf bin picking workcell with visual pose estimation: A case study on the world robot summit 2018 kitting task**|Frederik Hagelskjær et.al.|[2309.16221](http://arxiv.org/abs/2309.16221)|null|
+|**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189](http://arxiv.org/abs/2309.16189)|null|
+|**2023-09-28**|**Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation**|Sameer Pai et.al.|[2309.16170](http://arxiv.org/abs/2309.16170)|null|
+|**2023-09-28**|**CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**|Shaoxiang Guo et.al.|[2309.16140](http://arxiv.org/abs/2309.16140)|null|
+|**2023-09-28**|**A Modular Bio-inspired Robotic Hand with High Sensitivity**|Chao Liu et.al.|[2309.16081](http://arxiv.org/abs/2309.16081)|null|
+|**2023-09-27**|**Handbook on Leveraging Lines for Two-View Relative Pose Estimation**|Petr Hruby et.al.|[2309.16040](http://arxiv.org/abs/2309.16040)|null|
+|**2023-09-27**|**Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature**|Shengze Jin et.al.|[2309.16023](http://arxiv.org/abs/2309.16023)|null|
 |**2023-09-27**|**Analysis on Multi-robot Relative 6-DOF Pose Estimation Error Based on UWB Range**|Xinran Li et.al.|[2309.15367](http://arxiv.org/abs/2309.15367)|null|
 |**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865](http://arxiv.org/abs/2309.14865)|null|
 |**2023-09-26**|**Learning Vision-Based Bipedal Locomotion for Challenging Terrain**|Helei Duan et.al.|[2309.14594](http://arxiv.org/abs/2309.14594)|null|
