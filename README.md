@@ -92,6 +92,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143](http://arxiv.org/abs/2309.17143)|**[link](https://github.com/5k5000/cldetection2023)**|
+|**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964](http://arxiv.org/abs/2309.16964)|null|
 |**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634](http://arxiv.org/abs/2309.16634)|null|
 |**2023-09-28**|**Off-the-shelf bin picking workcell with visual pose estimation: A case study on the world robot summit 2018 kitting task**|Frederik Hagelskjær et.al.|[2309.16221](http://arxiv.org/abs/2309.16221)|null|
 |**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189](http://arxiv.org/abs/2309.16189)|null|
@@ -488,6 +490,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394](http://arxiv.org/abs/2309.15394)|null|
 |**2023-09-17**|**a critical analysis of internal reliability for uncertainty quantification of dense image matching in multi-view stereo**|Debao Huang et.al.|[2309.09379](http://arxiv.org/abs/2309.09379)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
