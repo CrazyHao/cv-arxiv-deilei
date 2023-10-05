@@ -83,6 +83,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Condition numbers in multiview geometry, instability in relative pose estimation, and RANSAC**|Hongyi Fan et.al.|[2310.02719](http://arxiv.org/abs/2310.02719)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904](http://arxiv.org/abs/2310.01904)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897](http://arxiv.org/abs/2310.01897)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410](http://arxiv.org/abs/2310.01410)|null|
