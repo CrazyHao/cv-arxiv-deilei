@@ -86,6 +86,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763](http://arxiv.org/abs/2310.06763)|**[link](https://github.com/qizhipei/fabind)**|
+|**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751](http://arxiv.org/abs/2310.06751)|null|
+|**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068](http://arxiv.org/abs/2310.06068)|null|
 |**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837](http://arxiv.org/abs/2310.04837)|null|
 |**2023-10-10**|**1st Place Solution of Egocentric 3D Hand Pose Estimation Challenge 2023 Technical Report:A Concise Pipeline for Egocentric Hand Pose Reconstruction**|Zhishan Zhou et.al.|[2310.04769](http://arxiv.org/abs/2310.04769)|null|
 |**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360](http://arxiv.org/abs/2310.04360)|null|
@@ -440,6 +443,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-10**|**Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|null|
 |**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|**[link](https://github.com/YanjieZe/H-InDex)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|**[link](https://github.com/sthalles/clove)**|
