@@ -86,6 +86,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237](http://arxiv.org/abs/2310.07237)|null|
+|**2023-10-11**|**DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation**|Rong Wang et.al.|[2310.07206](http://arxiv.org/abs/2310.07206)|null|
 |**2023-10-10**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763](http://arxiv.org/abs/2310.06763)|**[link](https://github.com/qizhipei/fabind)**|
 |**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751](http://arxiv.org/abs/2310.06751)|null|
 |**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068](http://arxiv.org/abs/2310.06068)|null|
