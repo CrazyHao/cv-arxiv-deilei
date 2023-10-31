@@ -99,6 +99,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Distributed Nonlinear Filtering using Triangular Transport Maps**|Daniel Grange et.al.|[2310.19000](http://arxiv.org/abs/2310.19000)|null|
+|**2023-10-29**|**TIC-TAC: A Framework To Learn And Evaluate Your Covariance**|Megh Shukla et.al.|[2310.18953](http://arxiv.org/abs/2310.18953)|**[link](https://github.com/vita-epfl/TIC-TAC)**|
+|**2023-10-29**|**Improving Multi-Person Pose Tracking with A Confidence Network**|Zehua Fu et.al.|[2310.18920](http://arxiv.org/abs/2310.18920)|null|
+|**2023-10-29**|**HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration**|Weiyi Xue et.al.|[2310.18874](http://arxiv.org/abs/2310.18874)|null|
 |**2023-10-27**|**ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation**|Michael Zechmair et.al.|[2310.18009](http://arxiv.org/abs/2310.18009)|null|
 |**2023-10-26**|**Learning Extrinsic Dexterity with Parameterized Manipulation Primitives**|Shih-Min Yang et.al.|[2310.17785](http://arxiv.org/abs/2310.17785)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
