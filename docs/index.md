@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.03
+## Updated on 2023.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -90,7 +90,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
 |**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401](http://arxiv.org/abs/2311.00401)|null|
-|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|**[link](https://github.com/junkunyuan/hap)**|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
 |**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293](http://arxiv.org/abs/2310.19293)|null|
 |**2023-10-29**|**Distributed Nonlinear Filtering using Triangular Transport Maps**|Daniel Grange et.al.|[2310.19000](http://arxiv.org/abs/2310.19000)|null|
