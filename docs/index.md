@@ -89,8 +89,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344](http://arxiv.org/abs/2311.05344)|null|
+|**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323](http://arxiv.org/abs/2311.05323)|null|
+|**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310](http://arxiv.org/abs/2311.05310)|null|
+|**2023-11-09**|**Differentiable Cloth Parameter Identification and State Estimation in Manipulation**|Dongzhe Zheng et.al.|[2311.05141](http://arxiv.org/abs/2311.05141)|null|
+|**2023-11-09**|**POISE: Pose Guided Human Silhouette Extraction under Occlusions**|Arindam Dutta et.al.|[2311.05077](http://arxiv.org/abs/2311.05077)|**[link](https://github.com/take2rohit/poise)**|
+|**2023-11-08**|**Active Transfer Learning for Efficient Video-Specific Human Pose Estimation**|Hiromu Taketsugu et.al.|[2311.05041](http://arxiv.org/abs/2311.05041)|**[link](https://github.com/iminthemiddle/vatl4pose-wacv2024)**|
 |**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699](http://arxiv.org/abs/2311.04699)|null|
-|**2023-11-08**|**Rethinking Event-based Human Pose Estimation with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
+|**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521](http://arxiv.org/abs/2311.04521)|null|
 |**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477](http://arxiv.org/abs/2311.04477)|null|
 |**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
@@ -568,6 +574,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
