@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -93,8 +93,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-24**|**RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with Occlusion Handling**|Xiaoyue Wan et.al.|[2311.14242](http://arxiv.org/abs/2311.14242)|null|
-|**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175](http://arxiv.org/abs/2311.14175)|null|
-|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155](http://arxiv.org/abs/2311.14155)|null|
+|**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175](http://arxiv.org/abs/2311.14175)|**[link](https://github.com/flakeua/bachelorsthesis)**|
+|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155](http://arxiv.org/abs/2311.14155)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777](http://arxiv.org/abs/2311.13777)|null|
 |**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615](http://arxiv.org/abs/2311.13615)|null|
 |**2023-11-24**|**Calibration System and Algorithm Design for a Soft Hinged Micro Scanning Mirror with a Triaxial Hall Effect Sensor**|Di Wang et.al.|[2311.12778](http://arxiv.org/abs/2311.12778)|null|
