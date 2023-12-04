@@ -94,6 +94,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690](http://arxiv.org/abs/2312.00690)|null|
+|**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
+|**2023-12-01**|**Learning Unorthogonalized Matrices for Rotation Estimation**|Kerui Gu et.al.|[2312.00462](http://arxiv.org/abs/2312.00462)|null|
+|**2023-11-30**|**Enhancing Ligand Pose Sampling for Molecular Docking**|Patricia Suriana et.al.|[2312.00191](http://arxiv.org/abs/2312.00191)|**[link](https://github.com/drorlab/glow_ives)**|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836](http://arxiv.org/abs/2311.18836)|null|
 |**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809](http://arxiv.org/abs/2311.18809)|null|
 |**2023-11-30**|**Pose Estimation and Tracking for ASIST**|Ari Goodman et.al.|[2311.18665](http://arxiv.org/abs/2311.18665)|null|
@@ -563,6 +567,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
