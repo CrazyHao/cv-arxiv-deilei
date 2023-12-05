@@ -105,6 +105,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
+|**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126](http://arxiv.org/abs/2312.02126)|null|
+|**2023-12-04**|**Disentangled Interaction Representation for One-Stage Human-Object Interaction Detection**|Xubin Zhong et.al.|[2312.01713](http://arxiv.org/abs/2312.01713)|null|
+|**2023-12-04**|**Hulk: A Universal Knowledge Translator for Human-Centric Tasks**|Yizhou Wang et.al.|[2312.01697](http://arxiv.org/abs/2312.01697)|**[link](https://github.com/opengvlab/humanbench)**|
+|**2023-12-04**|**Multi-View Person Matching and 3D Pose Estimation with Arbitrary Uncalibrated Camera Networks**|Yan Xu et.al.|[2312.01561](http://arxiv.org/abs/2312.01561)|null|
+|**2023-12-02**|**S2P3: Self-Supervised Polarimetric Pose Prediction**|Patrick Ruhkamp et.al.|[2312.01105](http://arxiv.org/abs/2312.01105)|null|
+|**2023-12-01**|**Object 6D pose estimation meets zero-shot learning**|Andrea Caraffa et.al.|[2312.00947](http://arxiv.org/abs/2312.00947)|null|
 |**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690](http://arxiv.org/abs/2312.00690)|null|
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
 |**2023-12-01**|**Learning Unorthogonalized Matrices for Rotation Estimation**|Kerui Gu et.al.|[2312.00462](http://arxiv.org/abs/2312.00462)|null|
@@ -659,6 +666,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344](http://arxiv.org/abs/2311.18344)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|null|
