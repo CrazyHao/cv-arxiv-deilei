@@ -31,6 +31,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
+|**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741](http://arxiv.org/abs/2312.06741)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|**[link](https://github.com/borglab/gtsfm)**|
@@ -96,6 +98,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation**|Peng Lu et.al.|[2312.07526](http://arxiv.org/abs/2312.07526)|**[link](https://github.com/open-mmlab/mmpose)**|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337](http://arxiv.org/abs/2312.07337)|**[link](https://github.com/ctu-mrs/rms)**|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**Mask as Supervision: Leveraging Unified Mask Information for Unsupervised 3D Pose Estimation**|Yuchen Yang et.al.|[2312.07051](http://arxiv.org/abs/2312.07051)|null|
+|**2023-12-12**|**Towards Enhanced Human Activity Recognition through Natural Language Generation and Pose Estimation**|Nikhil Kashyap et.al.|[2312.06965](http://arxiv.org/abs/2312.06965)|null|
+|**2023-12-12**|**Exploring Novel Object Recognition and Spontaneous Location Recognition Machine Learning Analysis Techniques in Alzheimer's Mice**|Soham Bafana et.al.|[2312.06914](http://arxiv.org/abs/2312.06914)|**[link](https://github.com/bafanas/dlc-object-recognition-analysis)**|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
+|**2023-12-11**|**Improving the Robustness of 3D Human Pose Estimation: A Benchmark and Learning from Noisy Input**|Trung-Hieu Hoang et.al.|[2312.06797](http://arxiv.org/abs/2312.06797)|null|
 |**2023-12-11**|**3D Hand Pose Estimation in Egocentric Images in the Wild**|Aditya Prakash et.al.|[2312.06583](http://arxiv.org/abs/2312.06583)|null|
 |**2023-12-11**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409](http://arxiv.org/abs/2312.06409)|null|
 |**2023-12-11**|**ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation**|Cédric Rommel et.al.|[2312.06386](http://arxiv.org/abs/2312.06386)|null|
@@ -592,6 +603,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
