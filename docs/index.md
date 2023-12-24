@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -101,6 +101,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
+|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162](http://arxiv.org/abs/2312.13162)|null|
 |**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
 |**2023-12-18**|**Underwater Robot Pose Estimation Using Acoustic Methods and Intermittent Position Measurements at the Surface**|Vicu-Mihalis Maer et.al.|[2312.11401](http://arxiv.org/abs/2312.11401)|null|
