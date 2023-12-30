@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2023-01-04**|**Voxelized 3D Feature Aggregation for Multiview Detection**|Jiahao Ma et.al.|[2112.03471](http://arxiv.org/abs/2112.03471)|**[link](https://github.com/Robert-Mar/VFA)**|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773](http://arxiv.org/abs/2110.04773)|null|
 
-<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231230>back to top</a>)</p>
 
 ## SFM
 
@@ -107,7 +107,7 @@
 |**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 
-<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231230>back to top</a>)</p>
 
 ## Hand Object Interaction
 
@@ -115,7 +115,7 @@
 |---|---|---|---|---|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787](http://arxiv.org/abs/2312.16787)|null|
 |**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737](http://arxiv.org/abs/2312.16737)|null|
 |**2023-12-27**|**Camera calibration for the surround-view system: a benchmark and dataset**|L Qin et.al.|[2312.16499](http://arxiv.org/abs/2312.16499)|null|
@@ -650,7 +650,7 @@
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349](http://arxiv.org/abs/2304.02349)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147](http://arxiv.org/abs/2304.02147)|null|
 
-<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231230>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -736,7 +736,7 @@
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
 |**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 
-<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231230>back to top</a>)</p>
 
 ## Image Matching
 
@@ -814,7 +814,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231230>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/CrazyHao/cv-arxiv-deilei.svg?style=for-the-badge
 [contributors-url]: https://github.com/CrazyHao/cv-arxiv-deilei/graphs/contributors
