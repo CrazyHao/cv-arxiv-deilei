@@ -122,6 +122,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Detection and Pose Estimation of flat, Texture-less Industry Objects on HoloLens using synthetic Training**|Thomas Pöllabauer et.al.|[2402.04979](http://arxiv.org/abs/2402.04979)|null|
+|**2024-02-07**|**4-Dimensional deformation part model for pose estimation using Kalman filter constraints**|Enrique Martinez-Berti et.al.|[2402.04953](http://arxiv.org/abs/2402.04953)|null|
+|**2024-02-07**|**STAR: Shape-focused Texture Agnostic Representations for Improved Object Detection and 6D Pose Estimation**|Peter Hönig et.al.|[2402.04878](http://arxiv.org/abs/2402.04878)|null|
 |**2024-02-05**|**A Computer Vision Based Approach for Stalking Detection Using a CNN-LSTM-MLP Hybrid Fusion Model**|Murad Hasan et.al.|[2402.03417](http://arxiv.org/abs/2402.03417)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
 |**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800](http://arxiv.org/abs/2402.02800)|**[link](https://github.com/scy639/extreme-two-view-geometry-from-object-poses-with-diffusion-models)**|
