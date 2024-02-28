@@ -114,6 +114,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504](http://arxiv.org/abs/2402.17504)|null|
+|**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062](http://arxiv.org/abs/2402.17062)|**[link](https://github.com/amathislab/hoisdf)**|
+|**2024-02-26**|**DRSI-Net: Dual-Residual Spatial Interaction Network for Multi-Person Pose Estimation**|Shang Wu et.al.|[2402.16640](http://arxiv.org/abs/2402.16640)|null|
+|**2024-02-26**|**GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video**|Xinqi Liu et.al.|[2402.16607](http://arxiv.org/abs/2402.16607)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
 |**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175](http://arxiv.org/abs/2402.16175)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
