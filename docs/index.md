@@ -31,11 +31,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
 |**2024-02-25**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-03-11**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711](http://arxiv.org/abs/2401.11711)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-15**|**3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**|Mathilde Letard et.al.|[2401.09481](http://arxiv.org/abs/2401.09481)|null|
@@ -115,7 +116,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-08**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450](http://arxiv.org/abs/2403.05450)|null|
+|**2024-03-11**|**Real-Time Simulated Avatar from Head-Mounted Sensors**|Zhengyi Luo et.al.|[2403.06862](http://arxiv.org/abs/2403.06862)|null|
+|**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577](http://arxiv.org/abs/2403.06577)|null|
+|**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164](http://arxiv.org/abs/2403.06164)|null|
+|**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090](http://arxiv.org/abs/2403.06090)|null|
+|**2024-03-08**|**Prepared for the Worst: A Learning-Based Adversarial Attack for Resilience Analysis of the ICP Algorithm**|Ziyu Zhang et.al.|[2403.05666](http://arxiv.org/abs/2403.05666)|null|
+|**2024-03-11**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450](http://arxiv.org/abs/2403.05450)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936](http://arxiv.org/abs/2403.04936)|null|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/abs/2403.04444)|null|
@@ -869,7 +875,7 @@ layout: default
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-03-11**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
