@@ -41,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
@@ -131,6 +132,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Normalized Validity Scores for DNNs in Regression based Eye Feature Extraction**|Wolfgang Fuhl et.al.|[2403.11665](http://arxiv.org/abs/2403.11665)|null|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
+|**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627](http://arxiv.org/abs/2403.11627)|**[link](https://github.com/young98cn/lora_composer)**|
+|**2024-03-18**|**GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects**|Sungphill Moon et.al.|[2403.11510](http://arxiv.org/abs/2403.11510)|null|
+|**2024-03-17**|**A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation**|Qucheng Peng et.al.|[2403.11310](http://arxiv.org/abs/2403.11310)|null|
+|**2024-03-17**|**Compact 3D Gaussian Splatting For Dense Visual SLAM**|Tianchen Deng et.al.|[2403.11247](http://arxiv.org/abs/2403.11247)|null|
+|**2024-03-16**|**Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty**|Lakshadeep Naik et.al.|[2403.10874](http://arxiv.org/abs/2403.10874)|null|
+|**2024-03-16**|**DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation**|Christopher Kolios et.al.|[2403.10773](http://arxiv.org/abs/2403.10773)|null|
+|**2024-03-15**|**GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2403.10683](http://arxiv.org/abs/2403.10683)|null|
 |**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990](http://arxiv.org/abs/2403.09990)|null|
 |**2024-03-14**|**ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Image**|Fangqiang Ding et.al.|[2403.09871](http://arxiv.org/abs/2403.09871)|null|
 |**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799](http://arxiv.org/abs/2403.09799)|null|
@@ -809,6 +819,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
@@ -904,10 +915,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
+|**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
 |**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252](http://arxiv.org/abs/2403.10252)|null|
 |**2024-03-14**|**Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**|Xilin Yang et.al.|[2403.09100](http://arxiv.org/abs/2403.09100)|null|
-|**2024-03-13**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
+|**2024-03-18**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
