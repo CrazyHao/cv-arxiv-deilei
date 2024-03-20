@@ -121,6 +121,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960](http://arxiv.org/abs/2403.12960)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728](http://arxiv.org/abs/2403.12728)|**[link](https://github.com/s-jingtao/self-srpe)**|
+|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682](http://arxiv.org/abs/2403.12682)|null|
+|**2024-03-19**|**In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing**|Mingrui Yu et.al.|[2403.12676](http://arxiv.org/abs/2403.12676)|null|
+|**2024-03-19**|**Self-learning Canonical Space for Multi-view 3D Human Pose Estimation**|Xiaoben Li et.al.|[2403.12440](http://arxiv.org/abs/2403.12440)|null|
+|**2024-03-19**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434](http://arxiv.org/abs/2403.12434)|null|
+|**2024-03-19**|**XPose: eXplainable Human Pose Estimation**|Luyu Qiu et.al.|[2403.12370](http://arxiv.org/abs/2403.12370)|null|
+|**2024-03-18**|**HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data**|Mengqi Zhang et.al.|[2403.12011](http://arxiv.org/abs/2403.12011)|null|
 |**2024-03-18**|**Normalized Validity Scores for DNNs in Regression based Eye Feature Extraction**|Wolfgang Fuhl et.al.|[2403.11665](http://arxiv.org/abs/2403.11665)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627](http://arxiv.org/abs/2403.11627)|**[link](https://github.com/young98cn/lora_composer)**|
@@ -900,6 +909,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
