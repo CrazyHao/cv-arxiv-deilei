@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.29
+## Updated on 2024.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -130,7 +130,7 @@ layout: default
 |**2024-03-26**|**Mathematical Foundation and Corrections for Full Range Head Pose Estimation**|Huei-Chung Hu et.al.|[2403.18104](http://arxiv.org/abs/2403.18104)|null|
 |**2024-03-26**|**EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation**|Chenhongyi Yang et.al.|[2403.18080](http://arxiv.org/abs/2403.18080)|null|
 |**2024-03-26**|**A Survey on 3D Egocentric Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2403.17893](http://arxiv.org/abs/2403.17893)|null|
-|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|null|
+|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|**[link](https://github.com/hrishavbakulbarua/gta-hdr)**|
 |**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827](http://arxiv.org/abs/2403.17827)|null|
 |**2024-03-26**|**System Calibration of a Field Phenotyping Robot with Multiple High-Precision Profile Laser Scanners**|Felix Esser et.al.|[2403.17788](http://arxiv.org/abs/2403.17788)|null|
 |**2024-03-25**|**Animal Avatars: Reconstructing Animatable 3D Animals from Casual Videos**|Remy Sabathier et.al.|[2403.17103](http://arxiv.org/abs/2403.17103)|null|
