@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -136,7 +136,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-22**|**DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation**|Yonghao Dang et.al.|[2404.14025](http://arxiv.org/abs/2404.14025)|null|
-|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
+|**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
 |**2024-04-21**|**Resampling-free Particle Filters in High-dimensions**|Akhilan Boopathy et.al.|[2404.13698](http://arxiv.org/abs/2404.13698)|null|
 |**2024-04-20**|**Deep SE(3)-Equivariant Geometric Reasoning for Precise Placement Tasks**|Ben Eisner et.al.|[2404.13478](http://arxiv.org/abs/2404.13478)|null|
 |**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|null|
