@@ -21,7 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|null|
+|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
 |**2024-03-13**|**HawkI: Homography & Mutual Information Guidance for 3D-free Single Image to Aerial View**|Divya Kothandaraman et.al.|[2311.15478](http://arxiv.org/abs/2311.15478)|**[link](https://github.com/divyakraman/hawki2024)**|
 |**2023-10-07**|**$H$ -RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics**|George Nousias et.al.|[2310.04912](http://arxiv.org/abs/2310.04912)|**[link](https://github.com/gnousias/h-ransac)**|
 |**2023-08-16**|**View Consistent Purification for Accurate Cross-View Localization**|Shan Wang et.al.|[2308.08110](http://arxiv.org/abs/2308.08110)|null|
@@ -147,6 +147,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215](http://arxiv.org/abs/2404.17215)|null|
+|**2024-04-25**|**WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on Wheelchair Users**|William Huang et.al.|[2404.17063](http://arxiv.org/abs/2404.17063)|**[link](https://github.com/hilab-open-source/wheelpose)**|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-25**|**DeepKalPose: An Enhanced Deep-Learning Kalman Filter for Temporally Consistent Monocular Vehicle Pose Estimation**|Leandro Di Bella et.al.|[2404.16558](http://arxiv.org/abs/2404.16558)|null|
 |**2024-04-25**|**Efficient Solution of Point-Line Absolute Pose**|Petr Hruby et.al.|[2404.16552](http://arxiv.org/abs/2404.16552)|**[link](https://github.com/petrhruby97/efficient_absolute)**|
