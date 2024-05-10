@@ -151,6 +151,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858](http://arxiv.org/abs/2405.05858)|null|
+|**2024-05-09**|**Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**|Huanyu Tian et.al.|[2405.05817](http://arxiv.org/abs/2405.05817)|null|
+|**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807](http://arxiv.org/abs/2405.05807)|null|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/abs/2405.05526)|null|
+|**2024-05-08**|**Adversary-Guided Motion Retargeting for Skeleton Anonymization**|Thomas Carr et.al.|[2405.05428](http://arxiv.org/abs/2405.05428)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164](http://arxiv.org/abs/2405.05164)|null|
 |**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890](http://arxiv.org/abs/2405.04890)|null|
