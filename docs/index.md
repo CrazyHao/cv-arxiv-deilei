@@ -140,6 +140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858](http://arxiv.org/abs/2405.05858)|null|
 |**2024-05-09**|**Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**|Huanyu Tian et.al.|[2405.05817](http://arxiv.org/abs/2405.05817)|null|
 |**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807](http://arxiv.org/abs/2405.05807)|null|
