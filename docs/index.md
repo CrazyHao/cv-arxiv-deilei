@@ -140,6 +140,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**AutoSoccerPose: Automated 3D posture Analysis of Soccer Shot Movements**|Calvin Yeung et.al.|[2405.12070](http://arxiv.org/abs/2405.12070)|**[link](https://github.com/calvinyeungck/3d-shot-posture-dataset)**|
+|**2024-05-20**|**Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction**|Eric Alcaide et.al.|[2405.11769](http://arxiv.org/abs/2405.11769)|**[link](https://github.com/dptech-corp/Uni-Mol)**|
+|**2024-05-19**|**Advancing 6-DoF Instrument Pose Estimation in Variable X-Ray Imaging Geometries**|Christiaan G. A. Viviers et.al.|[2405.11677](http://arxiv.org/abs/2405.11677)|**[link](https://github.com/cviviers/YOLOv5-6D-Pose)**|
+|**2024-05-19**|**Cross-Domain Knowledge Distillation for Low-Resolution Human Pose Estimation**|Zejun Gu et.al.|[2405.11448](http://arxiv.org/abs/2405.11448)|null|
+|**2024-05-18**|**PS6D: Point Cloud Based Symmetry-Aware 6D Object Pose Estimation in Robot Bin-Picking**|Yifan Yang et.al.|[2405.11257](http://arxiv.org/abs/2405.11257)|null|
+|**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129](http://arxiv.org/abs/2405.11129)|**[link](https://github.com/antonio521/motiongs)**|
 |**2024-05-17**|**Resolving Symmetry Ambiguity in Correspondence-based Methods for Instance-level Object Pose Estimation**|Yongliang Lin et.al.|[2405.10557](http://arxiv.org/abs/2405.10557)|null|
 |**2024-05-16**|**Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**|Mohamed Ilyes Lakhal et.al.|[2405.10423](http://arxiv.org/abs/2405.10423)|null|
 |**2024-05-17**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320](http://arxiv.org/abs/2405.10320)|null|
