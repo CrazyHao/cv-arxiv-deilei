@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -39,7 +39,7 @@ layout: default
 |**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-22**|**RESFM: Robust Equivariant Multiview Structure from Motion**|Fadi Khatib et.al.|[2404.14280](http://arxiv.org/abs/2404.14280)|null|
-|**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
+|**2024-05-23**|**Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-05-07**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/abs/2404.11590)|**[link](https://github.com/alexfengg/ste)**|
 |**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
 |**2024-05-21**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
