@@ -144,7 +144,7 @@ layout: default
 |**2024-05-23**|**Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**|Daniel Kienzle et.al.|[2405.14467](http://arxiv.org/abs/2405.14467)|null|
 |**2024-05-21**|**Geometric Transformation Uncertainty for Improving 3D Fetal Brain Pose Prediction from Freehand 2D Ultrasound Videos**|Jayroop Ramesh et.al.|[2405.13235](http://arxiv.org/abs/2405.13235)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
-|**2024-05-21**|**PoseGravity: Pose Estimation from Points and Lines with Axis Prior**|Akshay Chandrasekhar et.al.|[2405.12646](http://arxiv.org/abs/2405.12646)|null|
+|**2024-05-21**|**PoseGravity: Pose Estimation from Points and Lines with Axis Prior**|Akshay Chandrasekhar et.al.|[2405.12646](http://arxiv.org/abs/2405.12646)|**[link](https://github.com/akschion/PoseGravity)**|
 |**2024-05-19**|**Focus on Low-Resolution Information: Multi-Granular Information-Lossless Model for Low-Resolution Human Pose Estimation**|Zejun Gu et.al.|[2405.12247](http://arxiv.org/abs/2405.12247)|null|
 |**2024-05-20**|**AutoSoccerPose: Automated 3D posture Analysis of Soccer Shot Movements**|Calvin Yeung et.al.|[2405.12070](http://arxiv.org/abs/2405.12070)|**[link](https://github.com/calvinyeungck/3d-shot-posture-dataset)**|
 |**2024-05-20**|**Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction**|Eric Alcaide et.al.|[2405.11769](http://arxiv.org/abs/2405.11769)|**[link](https://github.com/dptech-corp/Uni-Mol)**|
@@ -1103,7 +1103,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
-|**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|null|
+|**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
