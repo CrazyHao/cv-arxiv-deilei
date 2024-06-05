@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-05-29**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
 |**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599](http://arxiv.org/abs/2405.16599)|null|
@@ -143,6 +144,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
+|**2024-06-04**|**HPE-CogVLM: New Head Pose Grounding Task Exploration on Vision Language Model**|Yu Tian et.al.|[2406.01914](http://arxiv.org/abs/2406.01914)|null|
+|**2024-06-03**|**A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios**|Enrico Martini et.al.|[2406.01832](http://arxiv.org/abs/2406.01832)|**[link](https://github.com/penn-figueroa-lab/markerless-human-perception)**|
+|**2024-06-01**|**Equivariant amortized inference of poses for cryo-EM**|Larissa de Ruijter et.al.|[2406.01630](http://arxiv.org/abs/2406.01630)|null|
+|**2024-06-03**|**3D WholeBody Pose Estimation based on Semantic Graph Attention Network and Distance Information**|Sihan Wen et.al.|[2406.01196](http://arxiv.org/abs/2406.01196)|null|
+|**2024-06-01**|**CapeX: Category-Agnostic Pose Estimation from Textual Point Explanation**|Matan Rusanovsky et.al.|[2406.00384](http://arxiv.org/abs/2406.00384)|null|
 |**2024-05-30**|**Estimating Human Poses Across Datasets: A Unified Skeleton and Multi-Teacher Distillation Approach**|Muhammad Saif Ullah Khan et.al.|[2405.20084](http://arxiv.org/abs/2405.20084)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
 |**2024-05-29**|**Real-Time Dynamic Robot-Assisted Hand-Object Interaction via Motion Primitives**|Mingqi Yuan et.al.|[2405.19531](http://arxiv.org/abs/2405.19531)|null|
@@ -1010,6 +1017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|null|
+|**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
 |**2024-06-01**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu et.al.|[2405.12476](http://arxiv.org/abs/2405.12476)|**[link](https://github.com/weizhenliubioinform/fish-phenotype-detect)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
