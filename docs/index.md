@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -146,7 +146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500](http://arxiv.org/abs/2406.07500)|null|
+|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500](http://arxiv.org/abs/2406.07500)|null|
 |**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328](http://arxiv.org/abs/2406.07328)|null|
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale**|Shester Gueuwou et.al.|[2406.06907](http://arxiv.org/abs/2406.06907)|null|
