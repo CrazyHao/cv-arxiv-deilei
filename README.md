@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,14 +36,14 @@
 |**2023-01-04**|**Voxelized 3D Feature Aggregation for Multiview Detection**|Jiahao Ma et.al.|[2112.03471](http://arxiv.org/abs/2112.03471)|**[link](https://github.com/Robert-Mar/VFA)**|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773](http://arxiv.org/abs/2110.04773)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
-|**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
+|**2024-06-13**|**Gaussian Splatting with Localized Points Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-05-29**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
@@ -151,18 +151,18 @@
 |**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## Hand Object Interaction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|null|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2024-06-12**|**Asymptotic Unbiased Sample Sampling to Speed Up Sharpness-Aware Minimization**|Jiaxin Deng et.al.|[2406.08001](http://arxiv.org/abs/2406.08001)|null|
-|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|null|
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|null|
-|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500](http://arxiv.org/abs/2406.07500)|null|
-|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328](http://arxiv.org/abs/2406.07328)|null|
+|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|**[link](https://github.com/EinsTian1/iftd)**|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
+|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500](http://arxiv.org/abs/2406.07500)|**[link](https://github.com/vpulab/spin)**|
+|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328](http://arxiv.org/abs/2406.07328)|**[link](https://github.com/surgical-robotics-ai/realistic-6dof-data-generation)**|
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale**|Shester Gueuwou et.al.|[2406.06907](http://arxiv.org/abs/2406.06907)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
@@ -1042,7 +1042,7 @@
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349](http://arxiv.org/abs/2304.02349)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147](http://arxiv.org/abs/2304.02147)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1154,7 +1154,7 @@
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
 |**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1278,7 +1278,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/CrazyHao/cv-arxiv-deilei.svg?style=for-the-badge
 [contributors-url]: https://github.com/CrazyHao/cv-arxiv-deilei/graphs/contributors
