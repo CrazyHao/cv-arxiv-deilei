@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-15**|**Discrete Latent Perspective Learning for Segmentation and Detection**|Deyi Ji et.al.|[2406.10475](http://arxiv.org/abs/2406.10475)|null|
 |**2024-05-21**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
 |**2024-03-13**|**HawkI: Homography & Mutual Information Guidance for 3D-free Single Image to Aerial View**|Divya Kothandaraman et.al.|[2311.15478](http://arxiv.org/abs/2311.15478)|**[link](https://github.com/divyakraman/hawki2024)**|
 |**2023-10-07**|**$H$ -RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics**|George Nousias et.al.|[2310.04912](http://arxiv.org/abs/2310.04912)|**[link](https://github.com/gnousias/h-ransac)**|
@@ -33,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-13**|**Gaussian Splatting with Localized Points Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
@@ -146,6 +148,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
+|**2024-06-17**|**Domain Generalization for In-Orbit 6D Pose Estimation**|Antoine Legrand et.al.|[2406.11743](http://arxiv.org/abs/2406.11743)|null|
+|**2024-06-17**|**SeamPose: Repurposing Seams as Capacitive Sensors in a Shirt for Upper-Body Pose Tracking**|Tianhong Catherine Yu et.al.|[2406.11645](http://arxiv.org/abs/2406.11645)|null|
+|**2024-06-14**|**Galibr: Targetless LiDAR-Camera Extrinsic Calibration Method via Ground Plane Initialization**|Wonho Song et.al.|[2406.11599](http://arxiv.org/abs/2406.11599)|null|
+|**2024-06-17**|**AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation**|Chuyan Xiong et.al.|[2406.11548](http://arxiv.org/abs/2406.11548)|null|
+|**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
+|**2024-06-15**|**Improving Ab-Initio Cryo-EM Reconstruction with Semi-Amortized Pose Inference**|Shayan Shekarforoush et.al.|[2406.10455](http://arxiv.org/abs/2406.10455)|null|
+|**2024-06-14**|**The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences**|Bria Long et.al.|[2406.10447](http://arxiv.org/abs/2406.10447)|null|
 |**2024-06-14**|**OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics**|Yoni Gozlan et.al.|[2406.09788](http://arxiv.org/abs/2406.09788)|null|
 |**2024-06-13**|**ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**|Wufei Ma et.al.|[2406.09613](http://arxiv.org/abs/2406.09613)|**[link](https://github.com/wufeim/imagenet3d)**|
 |**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260](http://arxiv.org/abs/2406.09260)|null|
@@ -1149,6 +1159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
