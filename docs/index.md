@@ -34,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
@@ -149,7 +150,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
+|**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384](http://arxiv.org/abs/2406.16384)|null|
+|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
+|**2024-06-21**|**Efficient Human Pose Estimation: Leveraging Advanced Techniques with MediaPipe**|Sandeep Singh Sengar et.al.|[2406.15649](http://arxiv.org/abs/2406.15649)|**[link](https://github.com/avhixd/human_pose_estimation)**|
+|**2024-06-24**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
 |**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412](http://arxiv.org/abs/2406.14412)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/abs/2406.14367)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796](http://arxiv.org/abs/2406.13796)|null|
@@ -1058,6 +1062,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
