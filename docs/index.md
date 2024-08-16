@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -17,7 +17,7 @@ layout: default
 |**2024-07-09**|**CamFreeDiff: Camera-free Image to Panorama Generation with Diffusion Model**|Xiaoding Yuan et.al.|[2407.07174](http://arxiv.org/abs/2407.07174)|null|
 |**2024-06-15**|**Discrete Latent Perspective Learning for Segmentation and Detection**|Deyi Ji et.al.|[2406.10475](http://arxiv.org/abs/2406.10475)|null|
 |**2024-05-21**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
-|**2024-03-13**|**HawkI: Homography & Mutual Information Guidance for 3D-free Single Image to Aerial View**|Divya Kothandaraman et.al.|[2311.15478](http://arxiv.org/abs/2311.15478)|**[link](https://github.com/divyakraman/hawki2024)**|
+|**2024-08-14**|**HawkI: Homography & Mutual Information Guidance for 3D-free Single Image to Aerial View**|Divya Kothandaraman et.al.|[2311.15478](http://arxiv.org/abs/2311.15478)|**[link](https://github.com/divyakraman/hawki2024)**|
 |**2023-10-07**|**$H$ -RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics**|George Nousias et.al.|[2310.04912](http://arxiv.org/abs/2310.04912)|**[link](https://github.com/gnousias/h-ransac)**|
 |**2023-08-16**|**View Consistent Purification for Accurate Cross-View Localization**|Shan Wang et.al.|[2308.08110](http://arxiv.org/abs/2308.08110)|null|
 |**2023-02-15**|**AI pipeline for accurate retinal layer segmentation using OCT 3D images**|Mayank Goswami et.al.|[2302.07806](http://arxiv.org/abs/2302.07806)|null|
