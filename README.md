@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2023-01-04**|**Voxelized 3D Feature Aggregation for Multiview Detection**|Jiahao Ma et.al.|[2112.03471](http://arxiv.org/abs/2112.03471)|**[link](https://github.com/Robert-Mar/VFA)**|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773](http://arxiv.org/abs/2110.04773)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## SFM
 
@@ -180,7 +180,7 @@
 |**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## Hand Object Interaction
 
@@ -190,7 +190,7 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|null|
 |**2024-08-19**|**Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation**|Qianhui Men et.al.|[2408.09931](http://arxiv.org/abs/2408.09931)|null|
 |**2024-08-18**|**OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**|Chen Long-fei et.al.|[2408.09409](http://arxiv.org/abs/2408.09409)|null|
-|**2024-08-17**|**An Open-Source American Sign Language Fingerspell Recognition and Semantic Pose Retrieval Interface**|Kevin Jose Thomas et.al.|[2408.09311](http://arxiv.org/abs/2408.09311)|null|
+|**2024-08-17**|**An Open-Source American Sign Language Fingerspell Recognition and Semantic Pose Retrieval Interface**|Kevin Jose Thomas et.al.|[2408.09311](http://arxiv.org/abs/2408.09311)|**[link](https://github.com/kevinjosethomas/sign-language-processing)**|
 |**2024-08-16**|**ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation**|Hao Tang et.al.|[2408.09042](http://arxiv.org/abs/2408.09042)|null|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
 |**2024-08-16**|**SketchRef: A Benchmark Dataset and Evaluation Metrics for Automated Sketch Synthesis**|Xingyue Lin et.al.|[2408.08623](http://arxiv.org/abs/2408.08623)|null|
@@ -1211,7 +1211,7 @@
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349](http://arxiv.org/abs/2304.02349)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147](http://arxiv.org/abs/2304.02147)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1334,7 +1334,7 @@
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
 |**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1476,7 +1476,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/CrazyHao/cv-arxiv-deilei.svg?style=for-the-badge
 [contributors-url]: https://github.com/CrazyHao/cv-arxiv-deilei/graphs/contributors
