@@ -192,6 +192,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Casper DPM: Cascaded Perceptual Dynamic Projection Mapping onto Hands**|Yotam Erel et.al.|[2409.04397](http://arxiv.org/abs/2409.04397)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
+|**2024-09-06**|**Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics**|Woojin Cho et.al.|[2409.04033](http://arxiv.org/abs/2409.04033)|null|
+|**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
+|**2024-09-05**|**The Influence of Faulty Labels in Data Sets on Human Pose Estimation**|Arnold Schwarz et.al.|[2409.03887](http://arxiv.org/abs/2409.03887)|null|
 |**2024-09-05**|**MaskVal: Simple but Effective Uncertainty Quantification for 6D Pose Estimation**|Philipp Quentin et.al.|[2409.03556](http://arxiv.org/abs/2409.03556)|null|
 |**2024-09-05**|**UAV (Unmanned Aerial Vehicles): Diverse Applications of UAV Datasets in Segmentation, Classification, Detection, and Tracking**|Md. Mahfuzur Rahman et.al.|[2409.03245](http://arxiv.org/abs/2409.03245)|null|
 |**2024-09-01**|**Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach**|Wenjun Huang et.al.|[2409.02715](http://arxiv.org/abs/2409.02715)|null|
@@ -1255,6 +1260,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
