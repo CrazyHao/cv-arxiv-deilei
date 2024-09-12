@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |---|---|---|---|---|
 |**2024-07-09**|**CamFreeDiff: Camera-free Image to Panorama Generation with Diffusion Model**|Xiaoding Yuan et.al.|[2407.07174](http://arxiv.org/abs/2407.07174)|null|
 |**2024-06-15**|**Discrete Latent Perspective Learning for Segmentation and Detection**|Deyi Ji et.al.|[2406.10475](http://arxiv.org/abs/2406.10475)|null|
-|**2024-05-21**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
+|**2024-09-11**|**RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
 |**2024-08-14**|**HawkI: Homography & Mutual Information Guidance for 3D-free Single Image to Aerial View**|Divya Kothandaraman et.al.|[2311.15478](http://arxiv.org/abs/2311.15478)|**[link](https://github.com/divyakraman/hawki2024)**|
 |**2023-10-07**|**$H$ -RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics**|George Nousias et.al.|[2310.04912](http://arxiv.org/abs/2310.04912)|**[link](https://github.com/gnousias/h-ransac)**|
 |**2023-08-16**|**View Consistent Purification for Accurate Cross-View Localization**|Shan Wang et.al.|[2308.08110](http://arxiv.org/abs/2308.08110)|null|
@@ -38,7 +38,7 @@
 |**2023-01-04**|**Voxelized 3D Feature Aggregation for Multiview Detection**|Jiahao Ma et.al.|[2112.03471](http://arxiv.org/abs/2112.03471)|**[link](https://github.com/Robert-Mar/VFA)**|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773](http://arxiv.org/abs/2110.04773)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## SFM
 
@@ -187,13 +187,13 @@
 |**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Hand Object Interaction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683](http://arxiv.org/abs/2409.06683)|null|
+|**2024-09-11**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683](http://arxiv.org/abs/2409.06683)|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535](http://arxiv.org/abs/2409.06535)|null|
 |**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240](http://arxiv.org/abs/2409.06240)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
@@ -1260,7 +1260,7 @@
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349](http://arxiv.org/abs/2304.02349)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147](http://arxiv.org/abs/2304.02147)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1384,7 +1384,7 @@
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
 |**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1397,7 +1397,7 @@
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
-|**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
+|**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
@@ -1535,7 +1535,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/CrazyHao/cv-arxiv-deilei.svg?style=for-the-badge
 [contributors-url]: https://github.com/CrazyHao/cv-arxiv-deilei/graphs/contributors

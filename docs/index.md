@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-09**|**CamFreeDiff: Camera-free Image to Panorama Generation with Diffusion Model**|Xiaoding Yuan et.al.|[2407.07174](http://arxiv.org/abs/2407.07174)|null|
 |**2024-06-15**|**Discrete Latent Perspective Learning for Segmentation and Detection**|Deyi Ji et.al.|[2406.10475](http://arxiv.org/abs/2406.10475)|null|
-|**2024-05-21**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
+|**2024-09-11**|**RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|**[link](https://github.com/mirthAI/RetinaRegNet)**|
 |**2024-08-14**|**HawkI: Homography & Mutual Information Guidance for 3D-free Single Image to Aerial View**|Divya Kothandaraman et.al.|[2311.15478](http://arxiv.org/abs/2311.15478)|**[link](https://github.com/divyakraman/hawki2024)**|
 |**2023-10-07**|**$H$ -RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics**|George Nousias et.al.|[2310.04912](http://arxiv.org/abs/2310.04912)|**[link](https://github.com/gnousias/h-ransac)**|
 |**2023-08-16**|**View Consistent Purification for Accurate Cross-View Localization**|Shan Wang et.al.|[2308.08110](http://arxiv.org/abs/2308.08110)|null|
@@ -182,7 +182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683](http://arxiv.org/abs/2409.06683)|null|
+|**2024-09-11**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683](http://arxiv.org/abs/2409.06683)|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535](http://arxiv.org/abs/2409.06535)|null|
 |**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240](http://arxiv.org/abs/2409.06240)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
@@ -1382,7 +1382,7 @@ layout: default
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
-|**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
+|**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
