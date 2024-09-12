@@ -193,6 +193,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Benchmarking 2D Egocentric Hand Pose Datasets**|Olga Taran et.al.|[2409.07337](http://arxiv.org/abs/2409.07337)|null|
+|**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116](http://arxiv.org/abs/2409.07116)|**[link](https://github.com/unsigned-long/ikalibr)**|
+|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948](http://arxiv.org/abs/2409.06948)|null|
+|**2024-09-10**|**A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch**|Haodong Zheng et.al.|[2409.06912](http://arxiv.org/abs/2409.06912)|null|
 |**2024-09-11**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683](http://arxiv.org/abs/2409.06683)|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535](http://arxiv.org/abs/2409.06535)|null|
 |**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240](http://arxiv.org/abs/2409.06240)|null|
