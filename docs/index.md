@@ -184,6 +184,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|null|
+|**2024-09-18**|**End-to-End Probabilistic Geometry-Guided Regression for 6DoF Object Pose Estimation**|Thomas Pöllabauer et.al.|[2409.11819](http://arxiv.org/abs/2409.11819)|null|
+|**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661](http://arxiv.org/abs/2409.11661)|null|
+|**2024-09-17**|**Good Grasps Only: A data engine for self-supervised fine-tuning of pose estimation using grasp poses for verification**|Frederik Hagelskjær et.al.|[2409.11512](http://arxiv.org/abs/2409.11512)|null|
 |**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383](http://arxiv.org/abs/2409.11383)|null|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**ULOC: Learning to Localize in Complex Large-Scale Environments with Ultra-Wideband Ranges**|Thien-Minh Nguyen et.al.|[2409.11122](http://arxiv.org/abs/2409.11122)|**[link](https://github.com/brytsknguyen/uloc)**|
