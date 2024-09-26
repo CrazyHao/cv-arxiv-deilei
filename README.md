@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,12 +38,14 @@
 |**2023-01-04**|**Voxelized 3D Feature Aggregation for Multiview Detection**|Jiahao Ma et.al.|[2112.03471](http://arxiv.org/abs/2112.03471)|**[link](https://github.com/Robert-Mar/VFA)**|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773](http://arxiv.org/abs/2110.04773)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**|Vandita Shukla et.al.|[2409.15914](http://arxiv.org/abs/2409.15914)|null|
+|**2024-09-23**|**Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**|Francisco Roza de Moraes et.al.|[2409.15602](http://arxiv.org/abs/2409.15602)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
 |**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
@@ -189,12 +191,22 @@
 |**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Hand Object Interaction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**PseudoNeg-MAE: Self-Supervised Point Cloud Learning using Conditional Pseudo-Negative Embeddings**|Sutharsan Mahendren et.al.|[2409.15832](http://arxiv.org/abs/2409.15832)|null|
+|**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727](http://arxiv.org/abs/2409.15727)|null|
+|**2024-09-23**|**Framework for Robust Localization of UUVs and Mapping of Net Pens**|David Botta et.al.|[2409.15475](http://arxiv.org/abs/2409.15475)|null|
+|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054](http://arxiv.org/abs/2409.15054)|null|
+|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|null|
+|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723](http://arxiv.org/abs/2409.14723)|null|
+|**2024-09-22**|**Tactile Functasets: Neural Implicit Representations of Tactile Datasets**|Sikai Li et.al.|[2409.14592](http://arxiv.org/abs/2409.14592)|null|
+|**2024-09-22**|**AR Overlay: Training Image Pose Estimation on Curved Surface in a Synthetic Way**|Sining Huang et.al.|[2409.14577](http://arxiv.org/abs/2409.14577)|null|
+|**2024-09-22**|**DROP: Dexterous Reorientation via Online Planning**|Albert H. Li et.al.|[2409.14562](http://arxiv.org/abs/2409.14562)|null|
+|**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
 |**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|null|
 |**2024-09-18**|**End-to-End Probabilistic Geometry-Guided Regression for 6DoF Object Pose Estimation**|Thomas Pöllabauer et.al.|[2409.11819](http://arxiv.org/abs/2409.11819)|null|
 |**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661](http://arxiv.org/abs/2409.11661)|null|
@@ -1294,13 +1306,14 @@
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349](http://arxiv.org/abs/2304.02349)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147](http://arxiv.org/abs/2304.02147)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
+|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -1419,15 +1432,16 @@
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
 |**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
-|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
+|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
@@ -1570,7 +1584,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/CrazyHao/cv-arxiv-deilei.svg?style=for-the-badge
 [contributors-url]: https://github.com/CrazyHao/cv-arxiv-deilei/graphs/contributors
