@@ -35,6 +35,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
 |**2024-10-04**|**Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**|Laura Fink et.al.|[2410.03861](http://arxiv.org/abs/2410.03861)|null|
 |**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
 |**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811](http://arxiv.org/abs/2409.19811)|null|
@@ -194,6 +195,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**OmniPose6D: Towards Short-Term Object Pose Tracking in Dynamic Scenes from Monocular RGB**|Yunzhi Lin et.al.|[2410.06694](http://arxiv.org/abs/2410.06694)|null|
+|**2024-10-08**|**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**|Ziyang Chen et.al.|[2410.06028](http://arxiv.org/abs/2410.06028)|null|
+|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996](http://arxiv.org/abs/2410.05996)|null|
+|**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
+|**2024-10-08**|**FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance**|Ruocheng Wang et.al.|[2410.05791](http://arxiv.org/abs/2410.05791)|null|
 |**2024-10-07**|**Comparison of marker-less 2D image-based methods for infant pose estimation**|Lennart Jahn et.al.|[2410.04980](http://arxiv.org/abs/2410.04980)|null|
 |**2024-10-06**|**Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion**|Mehwish Ghafoor et.al.|[2410.04574](http://arxiv.org/abs/2410.04574)|**[link](https://github.com/mehwishg/dtf)**|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419](http://arxiv.org/abs/2410.04419)|null|
@@ -1346,6 +1352,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang et.al.|[2410.06243](http://arxiv.org/abs/2410.06243)|null|
+|**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237](http://arxiv.org/abs/2410.02237)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
