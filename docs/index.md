@@ -206,6 +206,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Acoustic-based 3D Human Pose Estimation Robust to Human Position**|Yusuke Oumi et.al.|[2411.07165](http://arxiv.org/abs/2411.07165)|null|
+|**2024-11-11**|**CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models**|Junho Kim et.al.|[2411.06869](http://arxiv.org/abs/2411.06869)|null|
+|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766](http://arxiv.org/abs/2411.06766)|null|
+|**2024-11-11**|**GTA-Net: An IoT-Integrated 3D Human Pose Estimation System for Real-Time Adolescent Sports Posture Correction**|Shizhe Yuan et.al.|[2411.06725](http://arxiv.org/abs/2411.06725)|null|
+|**2024-11-10**|**Magnetic Field Aided Vehicle Localization with Acceleration Correction**|Mrunmayee Deshpande et.al.|[2411.06543](http://arxiv.org/abs/2411.06543)|null|
+|**2024-11-10**|**Visuotactile-Based Learning for Insertion with Compliant Hands**|Osher Azulay et.al.|[2411.06408](http://arxiv.org/abs/2411.06408)|null|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
 |**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
 |**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497](http://arxiv.org/abs/2411.05497)|null|
