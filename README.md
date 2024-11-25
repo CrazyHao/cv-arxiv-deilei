@@ -223,6 +223,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
 |**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
 |**2024-11-21**|**SEMPose: A Single End-to-end Network for Multi-object Pose Estimation**|Xin Liu et.al.|[2411.14002](http://arxiv.org/abs/2411.14002)|null|
 |**2024-11-21**|**Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain**|Vidya Sudevan et.al.|[2411.13988](http://arxiv.org/abs/2411.13988)|null|
