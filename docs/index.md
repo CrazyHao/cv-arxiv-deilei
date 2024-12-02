@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -220,7 +220,7 @@ layout: default
 |**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|null|
 |**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432](http://arxiv.org/abs/2411.17432)|null|
 |**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240](http://arxiv.org/abs/2411.17240)|**[link](https://github.com/junyuandeng/dm-calib)**|
-|**2024-11-27**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
+|**2024-11-28**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
 |**2024-11-26**|**GMFlow: Global Motion-Guided Recurrent Flow for 6D Object Pose Estimation**|Xin Liu et.al.|[2411.17174](http://arxiv.org/abs/2411.17174)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**Edge Weight Prediction For Category-Agnostic Pose Estimation**|Or Hirschorn et.al.|[2411.16665](http://arxiv.org/abs/2411.16665)|**[link](https://github.com/orhir/EdgeCape)**|
