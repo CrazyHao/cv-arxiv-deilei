@@ -221,7 +221,7 @@ layout: default
 |**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|null|
 |**2024-11-28**|**Distributed Dual Quaternion Extended Kalman Filtering for Spacecraft Pose Estimation**|Mathias Hudoba de Badyn et.al.|[2411.19033](http://arxiv.org/abs/2411.19033)|null|
 |**2024-11-28**|**Waterfall Transformer for Multi-person Pose Estimation**|Navin Ranjan et.al.|[2411.18944](http://arxiv.org/abs/2411.18944)|null|
-|**2024-11-27**|**AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**|Sherwin Bahmani et.al.|[2411.18673](http://arxiv.org/abs/2411.18673)|null|
+|**2024-12-02**|**AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**|Sherwin Bahmani et.al.|[2411.18673](http://arxiv.org/abs/2411.18673)|null|
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377](http://arxiv.org/abs/2411.18377)|null|
 |**2024-11-27**|**GAPartManip: A Large-scale Part-centric Dataset for Material-Agnostic Articulated Object Manipulation**|Wenbo Cui et.al.|[2411.18276](http://arxiv.org/abs/2411.18276)|null|
 |**2024-11-26**|**Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors**|Ziang Xu et.al.|[2411.17790](http://arxiv.org/abs/2411.17790)|null|
