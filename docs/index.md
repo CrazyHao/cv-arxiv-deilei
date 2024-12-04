@@ -36,6 +36,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
+|**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430](http://arxiv.org/abs/2412.01430)|null|
+|**2024-12-02**|**Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**|Alejandro Fontan et.al.|[2412.01116](http://arxiv.org/abs/2412.01116)|null|
 |**2024-11-27**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650](http://arxiv.org/abs/2411.18650)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
@@ -214,6 +217,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**|Miroslav Purkrabek et.al.|[2412.02254](http://arxiv.org/abs/2412.02254)|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197](http://arxiv.org/abs/2412.02197)|null|
+|**2024-12-03**|**CLERF: Contrastive LEaRning for Full Range Head Pose Estimation**|Ting-Ruen Wei et.al.|[2412.02066](http://arxiv.org/abs/2412.02066)|null|
+|**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562](http://arxiv.org/abs/2412.01562)|**[link](https://github.com/MiraPurkrabek/BBoxMaskPose)**|
+|**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543](http://arxiv.org/abs/2412.01543)|null|
+|**2024-12-02**|**HandOS: 3D Hand Reconstruction in One Stage**|Xingyu Chen et.al.|[2412.01537](http://arxiv.org/abs/2412.01537)|null|
+|**2024-12-02**|**SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames**|Yuxuan Zhou et.al.|[2412.01500](http://arxiv.org/abs/2412.01500)|null|
+|**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
+|**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299](http://arxiv.org/abs/2412.01299)|null|
+|**2024-12-02**|**CRISP: Object Pose and Shape Estimation with Test-Time Adaptation**|Jingnan Shi et.al.|[2412.01052](http://arxiv.org/abs/2412.01052)|null|
 |**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492](http://arxiv.org/abs/2411.19492)|null|
 |**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458](http://arxiv.org/abs/2411.19458)|null|
 |**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289](http://arxiv.org/abs/2411.19289)|null|
@@ -1482,6 +1495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
