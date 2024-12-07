@@ -223,12 +223,12 @@ layout: default
 |**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
 |**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517](http://arxiv.org/abs/2412.03517)|null|
 |**2024-12-05**|**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**|Proma Hossain Progga et.al.|[2412.03498](http://arxiv.org/abs/2412.03498)|null|
-|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-12-03**|**EgoCast: Forecasting Egocentric Human Pose in the Wild**|Maria Escobar et.al.|[2412.02903](http://arxiv.org/abs/2412.02903)|null|
 |**2024-12-02**|**emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation**|Sasha Salter et.al.|[2412.02725](http://arxiv.org/abs/2412.02725)|null|
 |**2024-12-03**|**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**|Miroslav Purkrabek et.al.|[2412.02254](http://arxiv.org/abs/2412.02254)|null|
-|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197](http://arxiv.org/abs/2412.02197)|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197](http://arxiv.org/abs/2412.02197)|**[link](https://github.com/xyonglu/cmsa)**|
 |**2024-12-03**|**CLERF: Contrastive LEaRning for Full Range Head Pose Estimation**|Ting-Ruen Wei et.al.|[2412.02066](http://arxiv.org/abs/2412.02066)|null|
 |**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562](http://arxiv.org/abs/2412.01562)|**[link](https://github.com/MiraPurkrabek/BBoxMaskPose)**|
 |**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543](http://arxiv.org/abs/2412.01543)|null|
