@@ -36,6 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Deep Non-rigid Structure-from-Motion Revisited: Canonicalization and Sequence Modeling**|Hui Deng et.al.|[2412.07230](http://arxiv.org/abs/2412.07230)|null|
 |**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826](http://arxiv.org/abs/2412.05826)|null|
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
@@ -219,6 +220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746](http://arxiv.org/abs/2412.07746)|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
+|**2024-12-09**|**Metastability, atmospheric midlatitude circulation regimes and large-scale teleconnection: a data-driven approach**|Dmitry Mukhin et.al.|[2412.06933](http://arxiv.org/abs/2412.06933)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2024-12-09**|**Attention-Enhanced Lightweight Hourglass Network for Human Pose Estimation**|Marsha Mariya Kappan et.al.|[2412.06227](http://arxiv.org/abs/2412.06227)|null|
 |**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
