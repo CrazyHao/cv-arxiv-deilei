@@ -232,6 +232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058](http://arxiv.org/abs/2412.13058)|null|
+|**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675](http://arxiv.org/abs/2412.12675)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420](http://arxiv.org/abs/2412.11420)|null|
 |**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573](http://arxiv.org/abs/2412.10573)|null|
 |**2024-12-11**|**CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty**|Harry Zhang et.al.|[2412.10431](http://arxiv.org/abs/2412.10431)|null|
