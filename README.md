@@ -46,6 +46,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
+|**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945](http://arxiv.org/abs/2501.14945)|null|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
@@ -243,6 +247,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146](http://arxiv.org/abs/2501.16146)|null|
+|**2025-01-27**|**NanoHTNet: Nano Human Topology Network for Efficient 3D Human Pose Estimation**|Jialun Cai et.al.|[2501.15763](http://arxiv.org/abs/2501.15763)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
+|**2025-01-25**|**SpatioTemporal Learning for Human Pose Estimation in Sparsely-Labeled Videos**|Yingying Jiao et.al.|[2501.15073](http://arxiv.org/abs/2501.15073)|null|
+|**2025-01-24**|**3D/2D Registration of Angiograms using Silhouette-based Differentiable Rendering**|Taewoong Lee et.al.|[2501.14918](http://arxiv.org/abs/2501.14918)|**[link](https://github.com/taewoonglee17/twoviewsdsareg)**|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
+|**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896](http://arxiv.org/abs/2501.14896)|null|
 |**2025-01-24**|**Optimizing Grasping Precision for Industrial Pick-and-Place Tasks Through a Novel Visual Servoing Approach**|Khairidine Benali et.al.|[2501.14557](http://arxiv.org/abs/2501.14557)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502](http://arxiv.org/abs/2501.14502)|null|
 |**2025-01-24**|**Optimizing Human Pose Estimation Through Focused Human and Joint Regions**|Yingying Jiao et.al.|[2501.14439](http://arxiv.org/abs/2501.14439)|null|
