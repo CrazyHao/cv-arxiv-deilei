@@ -241,6 +241,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Metamorphic Testing for Pose Estimation Systems**|Matias Duran et.al.|[2502.09460](http://arxiv.org/abs/2502.09460)|null|
+|**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080](http://arxiv.org/abs/2502.09080)|null|
+|**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865](http://arxiv.org/abs/2502.08865)|null|
+|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|null|
 |**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449](http://arxiv.org/abs/2502.08449)|null|
 |**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703](http://arxiv.org/abs/2502.07703)|**[link](https://github.com/chiyunnoh/garlio)**|
 |**2025-02-11**|**Matrix3D: Large Photogrammetry Model All-in-One**|Yuanxun Lu et.al.|[2502.07685](http://arxiv.org/abs/2502.07685)|null|
