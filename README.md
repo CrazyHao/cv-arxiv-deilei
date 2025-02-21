@@ -47,6 +47,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|null|
+|**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo et.al.|[2502.13986](http://arxiv.org/abs/2502.13986)|null|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
 |**2025-02-10**|**FOCUS -- Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences**|Oliver Boyne et.al.|[2502.06367](http://arxiv.org/abs/2502.06367)|**[link](https://github.com/OllieBoyne/FOCUS)**|
 |**2025-02-10**|**Building Rome with Convex Optimization**|Haoyu Han et.al.|[2502.04640](http://arxiv.org/abs/2502.04640)|null|
@@ -254,15 +256,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**EfficientPose 6D: Scalable and Efficient 6D Object Pose Estimation**|Zixuan Fang et.al.|[2502.14061](http://arxiv.org/abs/2502.14061)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
-|**2025-02-19**|**Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation**|Prasun Roy et.al.|[2502.13637](http://arxiv.org/abs/2502.13637)|null|
+|**2025-02-19**|**Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation**|Prasun Roy et.al.|[2502.13637](http://arxiv.org/abs/2502.13637)|**[link](https://github.com/prasunroy/mcma)**|
 |**2025-02-19**|**Object-Pose Estimation With Neural Population Codes**|Heiko Hoffmann et.al.|[2502.13403](http://arxiv.org/abs/2502.13403)|null|
 |**2025-02-18**|**Spatiotemporal Multi-Camera Calibration using Freely Moving People**|Sang-Eun Lee et.al.|[2502.12546](http://arxiv.org/abs/2502.12546)|null|
 |**2025-02-18**|**Learning Transformation-Isomorphic Latent Space for Accurate Hand Pose Estimation**|Kaiwen Ren et.al.|[2502.12535](http://arxiv.org/abs/2502.12535)|null|
 |**2025-02-19**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138](http://arxiv.org/abs/2502.12138)|null|
 |**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027](http://arxiv.org/abs/2502.12027)|null|
 |**2025-02-17**|**SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking**|Zijian Wu et.al.|[2502.11534](http://arxiv.org/abs/2502.11534)|null|
-|**2025-02-18**|**VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS**|Ming Meng et.al.|[2502.10729](http://arxiv.org/abs/2502.10729)|null|
+|**2025-02-18**|**VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS**|Ming Meng et.al.|[2502.10729](http://arxiv.org/abs/2502.10729)|**[link](https://github.com/mookerr/varges)**|
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
 |**2025-02-15**|**Learning semantical dynamics and spatiotemporal collaboration for human pose estimation in video**|Runyang Feng et.al.|[2502.10616](http://arxiv.org/abs/2502.10616)|null|
 |**2025-02-14**|**HIPPo: Harnessing Image-to-3D Priors for Model-free Zero-shot 6D Pose Estimation**|Yibo Liu et.al.|[2502.10606](http://arxiv.org/abs/2502.10606)|null|
@@ -1835,7 +1838,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|null|
+|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
