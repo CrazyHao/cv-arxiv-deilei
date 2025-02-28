@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2023-01-04**|**Voxelized 3D Feature Aggregation for Multiview Detection**|Jiahao Ma et.al.|[2112.03471](http://arxiv.org/abs/2112.03471)|**[link](https://github.com/Robert-Mar/VFA)**|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773](http://arxiv.org/abs/2110.04773)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## SFM
 
@@ -251,7 +251,7 @@
 |**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## Hand Object Interaction
 
@@ -262,7 +262,7 @@
 |**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214](http://arxiv.org/abs/2502.18214)|**[link](https://github.com/Raojiyong/KITPose)**|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495](http://arxiv.org/abs/2502.16495)|null|
-|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419](http://arxiv.org/abs/2502.16419)|null|
+|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419](http://arxiv.org/abs/2502.16419)|**[link](https://github.com/wujinhuan/depropose)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251](http://arxiv.org/abs/2502.15251)|null|
 |**2025-02-21**|**Nonlinear Dynamical Systems for Automatic Face Annotation in Head Tracking and Pose Estimation**|Thoa Thieu et.al.|[2502.15179](http://arxiv.org/abs/2502.15179)|null|
@@ -1682,7 +1682,7 @@
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349](http://arxiv.org/abs/2304.02349)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147](http://arxiv.org/abs/2304.02147)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1845,14 +1845,14 @@
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
 |**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
-|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
 |**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
@@ -2030,7 +2030,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/CrazyHao/cv-arxiv-deilei.svg?style=for-the-badge
 [contributors-url]: https://github.com/CrazyHao/cv-arxiv-deilei/graphs/contributors
