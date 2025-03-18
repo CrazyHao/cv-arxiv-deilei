@@ -48,6 +48,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
@@ -269,6 +270,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
+|**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303](http://arxiv.org/abs/2503.13303)|null|
+|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053](http://arxiv.org/abs/2503.13053)|null|
+|**2025-03-17**|**PoseSyn: Synthesizing Diverse 3D Pose Data from In-the-Wild 2D Data**|ChangHee Yang et.al.|[2503.13025](http://arxiv.org/abs/2503.13025)|null|
+|**2025-03-15**|**Gun Detection Using Combined Human Pose and Weapon Appearance**|Amulya Reddy Maligireddy et.al.|[2503.12215](http://arxiv.org/abs/2503.12215)|null|
+|**2025-03-15**|**TACO: Taming Diffusion for in-the-wild Video Amodal Completion**|Ruijie Lu et.al.|[2503.12049](http://arxiv.org/abs/2503.12049)|null|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
 |**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194](http://arxiv.org/abs/2503.11194)|null|
 |**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020](http://arxiv.org/abs/2503.11020)|null|
@@ -1761,6 +1768,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
@@ -1933,6 +1941,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
