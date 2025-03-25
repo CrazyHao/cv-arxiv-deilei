@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-22**|**3D Modeling: Camera Movement Estimation and path Correction for SFM Model using the Combination of Modified A-SIFT and Stereo System**|Usha Kumari et.al.|[2503.17668](http://arxiv.org/abs/2503.17668)|null|
+|**2025-03-21**|**ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**|Zhengqing Gao et.al.|[2503.17486](http://arxiv.org/abs/2503.17486)|null|
 |**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093](http://arxiv.org/abs/2503.17093)|null|
 |**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
@@ -263,6 +265,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673](http://arxiv.org/abs/2503.18673)|null|
+|**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671](http://arxiv.org/abs/2503.18671)|null|
+|**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282](http://arxiv.org/abs/2503.18282)|null|
+|**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
+|**2025-03-22**|**Co-op: Correspondence-based Novel Object Pose Estimation**|Sungphill Moon et.al.|[2503.17731](http://arxiv.org/abs/2503.17731)|null|
 |**2025-03-21**|**Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image**|Jerred Chen et.al.|[2503.17358](http://arxiv.org/abs/2503.17358)|null|
 |**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316](http://arxiv.org/abs/2503.17316)|null|
 |**2025-03-20**|**ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing**|Aditya Kamireddypalli et.al.|[2503.16592](http://arxiv.org/abs/2503.16592)|null|
@@ -1946,6 +1953,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|null|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
