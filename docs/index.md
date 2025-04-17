@@ -272,6 +272,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186](http://arxiv.org/abs/2504.12186)|null|
+|**2025-04-16**|**No Fuss, Just Function -- A Proposal for Non-Intrusive Full Body Tracking in XR for Meaningful Spatial Interactions**|Elisabeth Mayer et.al.|[2504.11987](http://arxiv.org/abs/2504.11987)|null|
+|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
 |**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160](http://arxiv.org/abs/2504.11160)|null|
 |**2025-04-15**|**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**|Shun Iwase et.al.|[2504.10857](http://arxiv.org/abs/2504.10857)|null|
