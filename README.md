@@ -48,6 +48,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|null|
@@ -296,6 +297,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Polar Coordinate-Based 2D Pose Prior with Neural Distance Field**|Qi Gan et.al.|[2505.03445](http://arxiv.org/abs/2505.03445)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|null|
+|**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315](http://arxiv.org/abs/2505.03315)|null|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690](http://arxiv.org/abs/2505.02690)|null|
 |**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501](http://arxiv.org/abs/2505.02501)|null|
 |**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481](http://arxiv.org/abs/2505.02481)|null|
@@ -2124,6 +2128,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
