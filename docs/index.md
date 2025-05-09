@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps**|Lang Nie et.al.|[2505.05001](http://arxiv.org/abs/2505.05001)|**[link](https://github.com/nie-lang/stabstitch2)**|
 |**2025-03-04**|**Scene-based nonuniformity correction with homography transformation**|Peretz Yafin et.al.|[2503.02487](http://arxiv.org/abs/2503.02487)|null|
 |**2025-02-18**|**Efficient UAV Coverage in Large Convex Quadrilateral Areas with Elliptical Footprints**|Alexander Vavoulas et.al.|[2502.13032](http://arxiv.org/abs/2502.13032)|null|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
@@ -39,6 +40,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
@@ -46,7 +48,7 @@ layout: default
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
-|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
+|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|**[link](https://github.com/cvg/mpsfm)**|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840](http://arxiv.org/abs/2504.16840)|null|
@@ -287,6 +289,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336](http://arxiv.org/abs/2505.05336)|null|
+|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
+|**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962](http://arxiv.org/abs/2505.04962)|null|
+|**2025-05-07**|**Comparison of Visual Trackers for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2505.04713](http://arxiv.org/abs/2505.04713)|null|
 |**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438](http://arxiv.org/abs/2505.04438)|null|
 |**2025-05-07**|**HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation**|Yajie Fu et.al.|[2505.04276](http://arxiv.org/abs/2505.04276)|**[link](https://github.com/circejie/hdifftg)**|
 |**2025-05-07**|**One2Any: One-Reference 6D Pose Estimation for Any Object**|Mengya Liu et.al.|[2505.04109](http://arxiv.org/abs/2505.04109)|null|
