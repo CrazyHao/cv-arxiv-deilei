@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
+|**2025-05-23**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
 |**2025-05-08**|**StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps**|Lang Nie et.al.|[2505.05001](http://arxiv.org/abs/2505.05001)|**[link](https://github.com/nie-lang/stabstitch2)**|
 |**2025-03-04**|**Scene-based nonuniformity correction with homography transformation**|Peretz Yafin et.al.|[2503.02487](http://arxiv.org/abs/2503.02487)|null|
 |**2025-02-18**|**Efficient UAV Coverage in Large Convex Quadrilateral Areas with Elliptical Footprints**|Alexander Vavoulas et.al.|[2502.13032](http://arxiv.org/abs/2502.13032)|null|
