@@ -318,6 +318,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
+|**2025-06-09**|**Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation**|Yijie Deng et.al.|[2506.07338](http://arxiv.org/abs/2506.07338)|null|
+|**2025-06-08**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
+|**2025-06-08**|**GoTrack: Generic 6DoF Object Pose Refinement and Tracking**|Van Nguyen Nguyen et.al.|[2506.07155](http://arxiv.org/abs/2506.07155)|null|
+|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
+|**2025-06-07**|**Deep Inertial Pose: A deep learning approach for human pose estimation**|Sara M. Cerqueira et.al.|[2506.06850](http://arxiv.org/abs/2506.06850)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
 |**2025-06-06**|**CryoFastAR: Fast Cryo-EM Ab Initio Reconstruction Made Easy**|Jiakai Zhang et.al.|[2506.05864](http://arxiv.org/abs/2506.05864)|null|
@@ -2233,6 +2239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
