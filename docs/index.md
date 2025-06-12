@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multi-view
@@ -307,6 +307,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934](http://arxiv.org/abs/2506.09934)|null|
+|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895](http://arxiv.org/abs/2506.09895)|null|
+|**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784](http://arxiv.org/abs/2506.09784)|null|
+|**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699](http://arxiv.org/abs/2506.09699)|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
 |**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699](http://arxiv.org/abs/2506.08699)|null|
 |**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
@@ -2226,6 +2230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
