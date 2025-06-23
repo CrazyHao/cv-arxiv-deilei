@@ -307,6 +307,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion**|Wang Zhao et.al.|[2506.17074](http://arxiv.org/abs/2506.17074)|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940](http://arxiv.org/abs/2506.16940)|null|
+|**2025-06-19**|**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**|Puhao Li et.al.|[2506.16211](http://arxiv.org/abs/2506.16211)|null|
+|**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061](http://arxiv.org/abs/2506.16061)|null|
+|**2025-06-19**|**KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping**|Kowndinya Boyalakuntla et.al.|[2506.15945](http://arxiv.org/abs/2506.15945)|null|
+|**2025-06-19**|**Beyond Audio and Pose: A General-Purpose Framework for Video Synchronization**|Yosub Shin et.al.|[2506.15937](http://arxiv.org/abs/2506.15937)|null|
+|**2025-06-18**|**Improving Robotic Manipulation: Techniques for Object Pose Estimation, Accommodating Positional Uncertainty, and Disassembly Tasks from Examples**|Viral Rasik Galaiya et.al.|[2506.15865](http://arxiv.org/abs/2506.15865)|null|
+|**2025-06-18**|**PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps**|Kirill Muravyev et.al.|[2506.15849](http://arxiv.org/abs/2506.15849)|null|
 |**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290](http://arxiv.org/abs/2506.15290)|null|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596](http://arxiv.org/abs/2506.14596)|null|
@@ -2057,7 +2067,7 @@ layout: default
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
-|**2025-06-18**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-06-19**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
@@ -2254,7 +2264,7 @@ layout: default
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
-|**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
+|**2025-06-20**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
