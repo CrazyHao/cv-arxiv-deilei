@@ -324,6 +324,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
+|**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206](http://arxiv.org/abs/2507.01206)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
+|**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
+|**2025-06-30**|**Computer Vision for Objects used in Group Work: Challenges and Opportunities**|Changsoo Jung et.al.|[2507.00224](http://arxiv.org/abs/2507.00224)|null|
 |**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
 |**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514](http://arxiv.org/abs/2506.23514)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
@@ -2295,6 +2300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
