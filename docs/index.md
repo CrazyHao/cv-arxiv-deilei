@@ -313,6 +313,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
+|**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
+|**2025-07-03**|**IMASHRIMP: Automatic White Shrimp (Penaeus vannamei) Biometrical Analysis from Laboratory Images Using Computer Vision and Deep Learning**|Abiam Remache González et.al.|[2507.02519](http://arxiv.org/abs/2507.02519)|null|
+|**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen et.al.|[2507.02411](http://arxiv.org/abs/2507.02411)|null|
+|**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308](http://arxiv.org/abs/2507.02308)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206](http://arxiv.org/abs/2507.01206)|null|
 |**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
