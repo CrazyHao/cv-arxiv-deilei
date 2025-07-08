@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision**|Patryk Skorupski et.al.|[2507.03016](http://arxiv.org/abs/2507.03016)|null|
 |**2025-05-23**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
 |**2025-05-08**|**StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps**|Lang Nie et.al.|[2505.05001](http://arxiv.org/abs/2505.05001)|**[link](https://github.com/nie-lang/stabstitch2)**|
 |**2025-03-04**|**Scene-based nonuniformity correction with homography transformation**|Peretz Yafin et.al.|[2503.02487](http://arxiv.org/abs/2503.02487)|null|
@@ -50,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
@@ -324,6 +326,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814](http://arxiv.org/abs/2507.04814)|null|
+|**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494](http://arxiv.org/abs/2507.04494)|null|
+|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
+|**2025-07-05**|**Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2507.03925](http://arxiv.org/abs/2507.03925)|null|
+|**2025-07-02**|**Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision**|Patryk Skorupski et.al.|[2507.03016](http://arxiv.org/abs/2507.03016)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
 |**2025-07-03**|**IMASHRIMP: Automatic White Shrimp (Penaeus vannamei) Biometrical Analysis from Laboratory Images Using Computer Vision and Deep Learning**|Abiam Remache González et.al.|[2507.02519](http://arxiv.org/abs/2507.02519)|null|
@@ -2305,11 +2312,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
