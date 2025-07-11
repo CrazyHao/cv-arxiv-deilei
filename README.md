@@ -326,6 +326,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
+|**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142](http://arxiv.org/abs/2507.07142)|null|
 |**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669](http://arxiv.org/abs/2507.06669)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-07-09**|**Mask6D: Masked Pose Priors For 6D Object Pose Estimation**|Yuechen Xie et.al.|[2507.06486](http://arxiv.org/abs/2507.06486)|null|
@@ -2120,6 +2122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
