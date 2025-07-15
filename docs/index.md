@@ -316,6 +316,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
+|**2025-07-14**|**ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users**|Xiangyu Yin et.al.|[2507.10223](http://arxiv.org/abs/2507.10223)|null|
+|**2025-07-13**|**Real-time and Controllable Reactive Motion Synthesis via Intention Guidance**|Xiaotang Zhang et.al.|[2507.09704](http://arxiv.org/abs/2507.09704)|null|
+|**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
+|**2025-07-13**|**EHPE: A Segmented Architecture for Enhanced Hand Pose Estimation**|Bolun Zheng et.al.|[2507.09560](http://arxiv.org/abs/2507.09560)|null|
+|**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513](http://arxiv.org/abs/2507.09513)|null|
+|**2025-07-12**|**PoseLLM: Enhancing Language-Guided Human Pose Estimation with MLP Alignment**|Dewen Zhang et.al.|[2507.09139](http://arxiv.org/abs/2507.09139)|null|
 |**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136](http://arxiv.org/abs/2507.08136)|null|
 |**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
 |**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142](http://arxiv.org/abs/2507.07142)|null|
